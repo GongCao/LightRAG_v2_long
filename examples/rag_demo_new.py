@@ -67,6 +67,7 @@ async def main():
         df = pd.read_excel('data.xlsx')
         answers = df['Content'].tolist()
         for answer in answers:
+            print(answer)
             await rag.ainsert(answer)
         # 假设你的配置如下
 
