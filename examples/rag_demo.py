@@ -110,7 +110,7 @@ async def main():
         # Perform hybrid search
         print(
             await rag.aquery(
-                "有哪些退票的故障？",
+                "支付宝团队处理过哪些事件？",
                 param=QueryParam(mode="hybrid"),
             )
         )
