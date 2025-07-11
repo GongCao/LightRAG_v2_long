@@ -114,6 +114,19 @@ async def main():
                 param=QueryParam(mode="hybrid"),
             )
         )
+        print(
+            await rag.aquery(
+                "tell something about alipay",
+                param=QueryParam(mode="hybrid"),
+            )
+        )
+        print(
+            await rag.aquery(
+                "CRM服务端团队参与解决2022年3月28日飞猪APP崩溃事件的过程了吗？",
+                param=QueryParam(mode="hybrid"),
+            )
+        )
+        
     except KeyError as e:
         print(f"KeyError: The key '{e.args[0]}' is missing in the dictionary.")
     except Exception as e:
