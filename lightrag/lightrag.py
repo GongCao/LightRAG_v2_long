@@ -235,9 +235,9 @@ class LightRAG:
                 logger.warning("All chunks are already in the storage")
                 return
             logger.info(f"[New Chunks] inserting {len(inserting_chunks)} chunks")
-
+            print('begin1')
             await self.chunks_vdb.upsert(inserting_chunks)
-
+            print('begin2')
             logger.info("[Entity Extraction]...")
             maybe_new_kg = await extract_entities(
                 inserting_chunks,
