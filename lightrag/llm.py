@@ -7,7 +7,7 @@ import aioboto3
 import aiohttp
 import numpy as np
 import ollama
-from whale import TextGeneration
+# from whale import TextGeneration
 
 from openai import (
     AsyncOpenAI,
