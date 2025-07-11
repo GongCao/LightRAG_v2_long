@@ -136,13 +136,13 @@ async def main():
         )
 
         # 假设你的配置如下
-        # config = {
-        #     'group_login': 'zhc8k7',
-        #     'book_slug': 'gsbi8g',
-        #     'token': 's7PMvyM3PZH9zOIU4wWKY7x8EeW8FF3meXYkKdkQ',
-        #     'source_uuid': 'c7j2coekbIrMLYMW',
-        #     'archive_uuid': '6opEhZ7RpbXfvEZb'
-        # }
+        config = {
+            'group_login': 'zhc8k7',
+            'book_slug': 'gsbi8g',
+            'token': 's7PMvyM3PZH9zOIU4wWKY7x8EeW8FF3meXYkKdkQ',
+            'source_uuid': 'c7j2coekbIrMLYMW',
+            'archive_uuid': '6opEhZ7RpbXfvEZb'
+        }
 
         # yuque_client = YuqueClient(config)
 
