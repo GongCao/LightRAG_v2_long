@@ -48,7 +48,7 @@ async def qwen_model(
     history_messages=[],
     **kwargs,
 ) -> str:
-    model_path = "../../models/Qwen/Qwen2.5-72B-Instruct"
+    model_path = "../../models/Qwen/Qwen2.5-32B-Instruct"
     tokenizer = AutoTokenizer.from_pretrained(model_path)
     model = AutoModelForCausalLM.from_pretrained(model_path, torch_dtype="auto", device_map="auto")
     messages = []
