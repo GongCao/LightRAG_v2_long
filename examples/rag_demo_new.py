@@ -68,8 +68,13 @@ async def main():
         answers = df['Content'].tolist()
         print(f"Answers list length: {len(answers)}")
         for answer in answers:
-            print(answer)
-            await rag.ainsert(answer)
+            try:
+                print(answer)
+                await rag.ainsert(answer)
+            except IndexError as e:
+                print(f"IndexError occurred for answer: {answer}")
+                print(f"Answers list length: {len(answers)}")
+                break
         # 假设你的配置如下
 
         # yuque_client = YuqueClient(config)
