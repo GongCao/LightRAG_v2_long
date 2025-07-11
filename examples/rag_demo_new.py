@@ -27,6 +27,7 @@ async def llm_model_func(
 
 
 async def embedding_func(texts: list[str]) -> np.ndarray:
+    texts = json.dumps(texts, ensure_ascii=False)
     return await req_emb(texts)
 
 
