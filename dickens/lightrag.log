@@ -1,0 +1,1886 @@
+2024-11-12 18:56:10,590 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-12 18:56:10,591 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-12 18:56:10,591 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-12 18:56:10,591 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-12 18:56:11,272 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 18:56:11,518 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-12 18:56:11,518 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-12 18:56:12,161 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 18:57:21,932 - lightrag - INFO - Inserting 28 vectors to entities
+2024-11-12 18:57:22,533 - lightrag - INFO - Inserting 15 vectors to relationships
+2024-11-12 18:57:23,115 - lightrag - INFO - Writing graph with 28 nodes, 15 edges
+2024-11-12 18:57:23,719 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 18:57:23,727 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 18:57:23,727 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 18:57:24,068 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 18:57:46,085 - lightrag - INFO - Inserting 9 vectors to entities
+2024-11-12 18:57:46,600 - lightrag - INFO - Inserting 7 vectors to relationships
+2024-11-12 18:57:47,016 - lightrag - INFO - Writing graph with 37 nodes, 22 edges
+2024-11-12 18:57:47,672 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 18:57:47,680 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 18:57:47,681 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 18:57:48,089 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 18:58:22,413 - lightrag - INFO - Inserting 10 vectors to entities
+2024-11-12 18:58:22,954 - lightrag - INFO - Inserting 9 vectors to relationships
+2024-11-12 18:58:23,401 - lightrag - INFO - Writing graph with 44 nodes, 31 edges
+2024-11-12 18:58:24,192 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 18:58:24,200 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 18:58:24,200 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 18:58:24,589 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 18:58:53,773 - lightrag - INFO - Inserting 9 vectors to entities
+2024-11-12 18:58:54,204 - lightrag - INFO - Inserting 9 vectors to relationships
+2024-11-12 18:58:54,750 - lightrag - INFO - Writing graph with 51 nodes, 39 edges
+2024-11-12 18:58:55,475 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 18:58:55,486 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 18:58:55,486 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 18:58:56,027 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 18:59:38,585 - lightrag - INFO - Inserting 12 vectors to entities
+2024-11-12 18:59:39,183 - lightrag - INFO - Inserting 12 vectors to relationships
+2024-11-12 18:59:39,739 - lightrag - INFO - Writing graph with 61 nodes, 51 edges
+2024-11-12 18:59:40,532 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 18:59:40,538 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 18:59:40,539 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 18:59:40,877 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:00:05,934 - lightrag - INFO - Inserting 8 vectors to entities
+2024-11-12 19:00:06,375 - lightrag - INFO - Inserting 5 vectors to relationships
+2024-11-12 19:00:06,806 - lightrag - INFO - Writing graph with 67 nodes, 55 edges
+2024-11-12 19:00:07,851 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:00:07,866 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-12 19:00:07,866 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-12 19:00:08,373 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:01:16,815 - lightrag - INFO - Inserting 25 vectors to entities
+2024-11-12 19:01:17,367 - lightrag - INFO - Inserting 20 vectors to relationships
+2024-11-12 19:01:17,957 - lightrag - INFO - Writing graph with 88 nodes, 75 edges
+2024-11-12 19:01:18,801 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:01:18,810 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 19:01:18,810 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 19:01:19,433 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:01:57,373 - lightrag - INFO - Inserting 12 vectors to entities
+2024-11-12 19:01:58,036 - lightrag - INFO - Inserting 10 vectors to relationships
+2024-11-12 19:01:58,585 - lightrag - INFO - Writing graph with 92 nodes, 83 edges
+2024-11-12 19:01:59,216 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:01:59,228 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 19:01:59,228 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 19:01:59,715 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:02:53,765 - lightrag - INFO - Inserting 25 vectors to entities
+2024-11-12 19:02:54,608 - lightrag - INFO - Inserting 7 vectors to relationships
+2024-11-12 19:02:55,115 - lightrag - INFO - Writing graph with 113 nodes, 90 edges
+2024-11-12 19:02:55,967 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:02:55,973 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 19:02:55,973 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 19:02:56,413 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:03:33,307 - lightrag - INFO - Inserting 15 vectors to entities
+2024-11-12 19:03:33,920 - lightrag - INFO - Inserting 8 vectors to relationships
+2024-11-12 19:03:34,460 - lightrag - INFO - Writing graph with 127 nodes, 98 edges
+2024-11-12 19:03:35,428 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:03:35,434 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 19:03:35,434 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 19:03:35,836 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:04:13,684 - lightrag - INFO - Inserting 15 vectors to entities
+2024-11-12 19:04:14,188 - lightrag - INFO - Inserting 8 vectors to relationships
+2024-11-12 19:04:14,619 - lightrag - INFO - Writing graph with 141 nodes, 105 edges
+2024-11-12 19:04:15,507 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:04:15,516 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 19:04:15,516 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 19:04:15,810 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:04:42,327 - lightrag - INFO - Inserting 16 vectors to entities
+2024-11-12 19:04:42,882 - lightrag - INFO - Inserting 9 vectors to relationships
+2024-11-12 19:04:43,406 - lightrag - INFO - Writing graph with 152 nodes, 114 edges
+2024-11-12 19:04:44,067 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:04:44,078 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 19:04:44,078 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 19:04:44,565 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:05:21,841 - lightrag - INFO - Inserting 15 vectors to entities
+2024-11-12 19:05:22,378 - lightrag - INFO - Inserting 8 vectors to relationships
+2024-11-12 19:05:22,906 - lightrag - INFO - Writing graph with 163 nodes, 121 edges
+2024-11-12 19:05:23,628 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:05:23,640 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 19:05:23,640 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 19:05:24,198 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:06:09,519 - lightrag - INFO - Inserting 10 vectors to entities
+2024-11-12 19:06:10,039 - lightrag - INFO - Inserting 4 vectors to relationships
+2024-11-12 19:06:10,490 - lightrag - INFO - Writing graph with 171 nodes, 125 edges
+2024-11-12 19:06:11,255 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:06:11,264 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 19:06:11,264 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 19:06:11,744 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:06:54,756 - lightrag - INFO - Inserting 16 vectors to entities
+2024-11-12 19:06:55,382 - lightrag - INFO - Inserting 4 vectors to relationships
+2024-11-12 19:06:55,852 - lightrag - INFO - Writing graph with 182 nodes, 129 edges
+2024-11-12 19:06:56,553 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:06:56,560 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 19:06:56,560 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 19:06:56,935 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:07:25,581 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-12 19:07:25,582 - lightrag - WARNING - No new entities and relationships found
+2024-11-12 19:07:25,609 - lightrag - INFO - Writing graph with 186 nodes, 129 edges
+2024-11-12 19:07:26,250 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:07:26,263 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 19:07:26,263 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 19:07:26,855 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:08:17,806 - lightrag - INFO - Inserting 20 vectors to entities
+2024-11-12 19:08:18,443 - lightrag - INFO - Inserting 19 vectors to relationships
+2024-11-12 19:08:19,123 - lightrag - INFO - Writing graph with 202 nodes, 147 edges
+2024-11-12 19:08:19,788 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:08:19,795 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 19:08:19,795 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 19:08:20,157 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:08:55,304 - lightrag - INFO - Inserting 12 vectors to entities
+2024-11-12 19:08:55,937 - lightrag - INFO - Inserting 6 vectors to relationships
+2024-11-12 19:08:56,417 - lightrag - INFO - Writing graph with 213 nodes, 153 edges
+2024-11-12 19:08:57,054 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:08:57,065 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 19:08:57,065 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 19:08:57,481 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:10:02,975 - lightrag - INFO - Inserting 26 vectors to entities
+2024-11-12 19:10:03,605 - lightrag - INFO - Inserting 4 vectors to relationships
+2024-11-12 19:10:04,092 - lightrag - INFO - Writing graph with 236 nodes, 157 edges
+2024-11-12 19:10:04,706 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:10:04,720 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 19:10:04,720 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 19:10:05,028 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:10:30,884 - lightrag - INFO - Writing graph with 236 nodes, 157 edges
+2024-11-12 19:10:31,557 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:10:31,569 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 19:10:31,569 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 19:10:31,868 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:10:46,123 - lightrag - INFO - Writing graph with 236 nodes, 157 edges
+2024-11-12 19:10:47,028 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:10:47,037 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 19:10:47,037 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 19:10:47,463 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:11:19,483 - lightrag - INFO - Inserting 4 vectors to entities
+2024-11-12 19:11:19,930 - lightrag - INFO - Inserting 2 vectors to relationships
+2024-11-12 19:11:20,283 - lightrag - INFO - Writing graph with 238 nodes, 159 edges
+2024-11-12 19:11:21,171 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:11:21,182 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 19:11:21,182 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 19:11:21,603 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:12:00,560 - lightrag - INFO - Writing graph with 238 nodes, 159 edges
+2024-11-12 19:12:01,244 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:12:01,255 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 19:12:01,255 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 19:12:01,735 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:12:29,640 - lightrag - INFO - Writing graph with 238 nodes, 159 edges
+2024-11-12 19:12:30,673 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:12:30,686 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-12 19:12:30,686 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-12 19:12:31,270 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:13:05,940 - lightrag - INFO - Writing graph with 238 nodes, 159 edges
+2024-11-12 19:13:06,554 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:13:06,567 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 19:13:06,567 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 19:13:07,087 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:13:17,437 - lightrag - INFO - Writing graph with 238 nodes, 159 edges
+2024-11-12 19:13:18,372 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:13:18,384 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 19:13:18,384 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 19:13:18,812 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:13:19,618 - lightrag - INFO - Writing graph with 238 nodes, 159 edges
+2024-11-12 19:13:20,209 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:13:20,215 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 19:13:20,215 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 19:13:20,702 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 19:13:37,640 - lightrag - INFO - Writing graph with 238 nodes, 159 edges
+2024-11-12 19:13:38,413 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 19:13:38,422 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 19:13:38,422 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 19:13:38,905 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:07:06,182 - lightrag - INFO - Writing graph with 238 nodes, 159 edges
+2024-11-12 21:07:13,447 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-12 21:07:13,451 - lightrag - INFO - Load KV full_docs with 19 data
+2024-11-12 21:07:13,453 - lightrag - INFO - Load KV text_chunks with 70 data
+2024-11-12 21:07:13,454 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-12 21:07:13,465 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 238 nodes, 159 edges
+2024-11-12 21:07:14,189 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:07:14,477 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 21:07:14,477 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 21:07:14,906 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:08:05,829 - lightrag - INFO - Inserting 22 vectors to entities
+2024-11-12 21:08:06,515 - lightrag - INFO - Inserting 17 vectors to relationships
+2024-11-12 21:08:07,247 - lightrag - INFO - Writing graph with 254 nodes, 176 edges
+2024-11-12 21:08:08,978 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:08:08,985 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 21:08:08,985 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 21:08:09,410 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:08:34,745 - lightrag - INFO - Inserting 9 vectors to entities
+2024-11-12 21:08:35,360 - lightrag - INFO - Inserting 6 vectors to relationships
+2024-11-12 21:08:35,771 - lightrag - INFO - Writing graph with 259 nodes, 181 edges
+2024-11-12 21:08:36,403 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:08:36,420 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 21:08:36,420 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 21:08:36,739 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:09:09,640 - lightrag - INFO - Inserting 19 vectors to entities
+2024-11-12 21:09:10,331 - lightrag - INFO - Inserting 7 vectors to relationships
+2024-11-12 21:09:10,826 - lightrag - INFO - Writing graph with 272 nodes, 186 edges
+2024-11-12 21:09:11,748 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:09:11,758 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 21:09:11,758 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 21:09:12,194 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:09:56,269 - lightrag - INFO - Inserting 24 vectors to entities
+2024-11-12 21:09:56,896 - lightrag - INFO - Inserting 4 vectors to relationships
+2024-11-12 21:09:57,364 - lightrag - INFO - Writing graph with 292 nodes, 190 edges
+2024-11-12 21:09:57,984 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:09:57,997 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 21:09:57,997 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 21:09:58,526 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:10:51,757 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-12 21:10:51,759 - lightrag - WARNING - No new entities and relationships found
+2024-11-12 21:10:51,793 - lightrag - INFO - Writing graph with 307 nodes, 190 edges
+2024-11-12 21:10:52,668 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:10:52,684 - lightrag - INFO - [New Chunks] inserting 9 chunks
+2024-11-12 21:10:52,684 - lightrag - INFO - Inserting 9 vectors to chunks
+2024-11-12 21:10:53,351 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:13:59,092 - lightrag - INFO - Writing graph with 307 nodes, 190 edges
+2024-11-12 21:13:59,823 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:13:59,859 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 21:13:59,860 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 21:14:00,302 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:14:56,194 - lightrag - INFO - Inserting 26 vectors to entities
+2024-11-12 21:14:56,984 - lightrag - INFO - Inserting 24 vectors to relationships
+2024-11-12 21:14:57,765 - lightrag - INFO - Writing graph with 329 nodes, 214 edges
+2024-11-12 21:14:58,478 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:14:58,490 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 21:14:58,490 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 21:14:59,001 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:15:51,633 - lightrag - INFO - Inserting 12 vectors to entities
+2024-11-12 21:15:52,271 - lightrag - INFO - Inserting 19 vectors to relationships
+2024-11-12 21:15:52,842 - lightrag - INFO - Writing graph with 338 nodes, 233 edges
+2024-11-12 21:15:53,623 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:15:53,634 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 21:15:53,634 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 21:15:54,246 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:16:41,039 - lightrag - INFO - Inserting 10 vectors to entities
+2024-11-12 21:16:41,605 - lightrag - INFO - Inserting 8 vectors to relationships
+2024-11-12 21:16:42,132 - lightrag - INFO - Writing graph with 346 nodes, 241 edges
+2024-11-12 21:16:42,857 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:16:42,870 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 21:16:42,871 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 21:16:43,408 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:17:22,120 - lightrag - INFO - Inserting 14 vectors to entities
+2024-11-12 21:17:22,702 - lightrag - INFO - Inserting 7 vectors to relationships
+2024-11-12 21:17:23,212 - lightrag - INFO - Writing graph with 355 nodes, 248 edges
+2024-11-12 21:17:23,981 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:17:23,988 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 21:17:23,988 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 21:17:24,627 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:18:27,308 - lightrag - INFO - Inserting 27 vectors to entities
+2024-11-12 21:18:27,976 - lightrag - INFO - Inserting 18 vectors to relationships
+2024-11-12 21:18:28,601 - lightrag - INFO - Writing graph with 375 nodes, 265 edges
+2024-11-12 21:18:29,234 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:18:29,244 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 21:18:29,244 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 21:18:29,694 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:18:59,328 - lightrag - INFO - Inserting 5 vectors to entities
+2024-11-12 21:18:59,752 - lightrag - INFO - Inserting 5 vectors to relationships
+2024-11-12 21:19:00,194 - lightrag - INFO - Writing graph with 377 nodes, 270 edges
+2024-11-12 21:19:00,970 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:19:00,974 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 21:19:00,974 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 21:19:01,285 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:19:27,948 - lightrag - INFO - Inserting 13 vectors to entities
+2024-11-12 21:19:28,450 - lightrag - INFO - Inserting 8 vectors to relationships
+2024-11-12 21:19:28,964 - lightrag - INFO - Writing graph with 385 nodes, 277 edges
+2024-11-12 21:19:29,631 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:19:29,637 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 21:19:29,637 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 21:19:30,117 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:20:17,351 - lightrag - INFO - Inserting 19 vectors to entities
+2024-11-12 21:20:18,028 - lightrag - INFO - Inserting 6 vectors to relationships
+2024-11-12 21:20:18,517 - lightrag - INFO - Writing graph with 397 nodes, 283 edges
+2024-11-12 21:20:19,235 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:20:19,241 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 21:20:19,241 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 21:20:19,697 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:20:58,397 - lightrag - INFO - Inserting 9 vectors to entities
+2024-11-12 21:20:58,875 - lightrag - INFO - Inserting 12 vectors to relationships
+2024-11-12 21:20:59,459 - lightrag - INFO - Writing graph with 401 nodes, 293 edges
+2024-11-12 21:21:00,009 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:21:00,016 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 21:21:00,016 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 21:21:00,378 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:21:21,786 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-12 21:21:21,787 - lightrag - WARNING - No new entities and relationships found
+2024-11-12 21:21:21,838 - lightrag - INFO - Writing graph with 404 nodes, 293 edges
+2024-11-12 21:21:22,636 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:21:22,647 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 21:21:22,647 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 21:21:23,112 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:22:19,845 - lightrag - INFO - Inserting 24 vectors to entities
+2024-11-12 21:22:20,566 - lightrag - INFO - Inserting 12 vectors to relationships
+2024-11-12 21:22:21,177 - lightrag - INFO - Writing graph with 419 nodes, 305 edges
+2024-11-12 21:22:22,018 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:22:22,026 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 21:22:22,027 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 21:22:22,541 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:22:48,112 - lightrag - INFO - Inserting 9 vectors to entities
+2024-11-12 21:22:48,707 - lightrag - INFO - Inserting 3 vectors to relationships
+2024-11-12 21:22:49,093 - lightrag - INFO - Writing graph with 425 nodes, 308 edges
+2024-11-12 21:22:49,712 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:22:49,721 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 21:22:49,722 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 21:22:50,135 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:23:25,427 - lightrag - INFO - Inserting 16 vectors to entities
+2024-11-12 21:23:26,033 - lightrag - INFO - Inserting 11 vectors to relationships
+2024-11-12 21:23:26,668 - lightrag - INFO - Writing graph with 435 nodes, 319 edges
+2024-11-12 21:23:27,307 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:23:27,317 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 21:23:27,317 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 21:23:27,755 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:24:12,427 - lightrag - INFO - Inserting 18 vectors to entities
+2024-11-12 21:24:12,956 - lightrag - INFO - Inserting 10 vectors to relationships
+2024-11-12 21:24:13,532 - lightrag - INFO - Writing graph with 449 nodes, 329 edges
+2024-11-12 21:24:14,250 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:24:14,257 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 21:24:14,257 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 21:24:14,567 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:24:36,479 - lightrag - INFO - Inserting 10 vectors to entities
+2024-11-12 21:24:37,023 - lightrag - INFO - Inserting 8 vectors to relationships
+2024-11-12 21:24:37,561 - lightrag - INFO - Writing graph with 455 nodes, 335 edges
+2024-11-12 21:24:38,219 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:24:38,229 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 21:24:38,229 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 21:24:38,689 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:25:27,747 - lightrag - INFO - Inserting 17 vectors to entities
+2024-11-12 21:25:28,503 - lightrag - INFO - Inserting 7 vectors to relationships
+2024-11-12 21:25:28,966 - lightrag - INFO - Writing graph with 469 nodes, 342 edges
+2024-11-12 21:25:30,120 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:25:30,133 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-12 21:25:30,133 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-12 21:25:30,659 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:26:46,558 - lightrag - INFO - Inserting 33 vectors to entities
+2024-11-12 21:26:47,809 - lightrag - INFO - Inserting 17 vectors to relationships
+2024-11-12 21:26:48,523 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 21:26:49,885 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:26:49,894 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-12 21:26:49,895 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-12 21:26:50,484 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:27:55,248 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 21:27:56,052 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:27:56,062 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-12 21:27:56,062 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-12 21:27:56,601 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:28:55,901 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 21:28:56,681 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:28:56,693 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 21:28:56,693 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 21:28:57,213 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:29:37,541 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 21:29:38,382 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:29:38,414 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 21:29:38,414 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 21:29:38,964 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:30:16,239 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 21:30:16,934 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:30:16,950 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 21:30:16,950 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 21:30:17,498 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:30:32,450 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 21:30:33,202 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:30:33,213 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 21:30:33,213 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 21:30:33,708 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:30:49,664 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 21:30:50,424 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:30:50,439 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 21:30:50,439 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 21:30:51,007 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:39:49,477 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 21:55:15,893 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-12 21:55:15,899 - lightrag - INFO - Load KV full_docs with 39 data
+2024-11-12 21:55:15,903 - lightrag - INFO - Load KV text_chunks with 140 data
+2024-11-12 21:55:15,904 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-12 21:55:15,922 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 494 nodes, 359 edges
+2024-11-12 21:55:16,617 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:55:16,890 - lightrag - INFO - [New Chunks] inserting 9 chunks
+2024-11-12 21:55:16,890 - lightrag - INFO - Inserting 9 vectors to chunks
+2024-11-12 21:55:17,597 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:56:46,673 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 21:56:47,209 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:56:47,224 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 21:56:47,224 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 21:56:47,718 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:57:08,853 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 21:57:09,171 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:57:09,176 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 21:57:09,176 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 21:57:09,529 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:57:10,095 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 21:57:10,520 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:57:10,529 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 21:57:10,529 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 21:57:11,111 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:57:12,309 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 21:57:12,708 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 21:57:12,715 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 21:57:12,715 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 21:57:13,193 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 21:57:41,140 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 22:01:15,954 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-12 22:01:15,958 - lightrag - INFO - Load KV full_docs with 39 data
+2024-11-12 22:01:15,963 - lightrag - INFO - Load KV text_chunks with 140 data
+2024-11-12 22:01:15,963 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-12 22:01:15,981 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 494 nodes, 359 edges
+2024-11-12 22:01:16,687 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:01:16,958 - lightrag - INFO - [New Chunks] inserting 9 chunks
+2024-11-12 22:01:16,959 - lightrag - INFO - Inserting 9 vectors to chunks
+2024-11-12 22:01:17,586 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:02:43,570 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 22:02:44,081 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:02:44,095 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 22:02:44,095 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 22:02:44,653 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:03:10,137 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 22:03:10,390 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:03:10,397 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 22:03:10,398 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 22:03:10,664 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:05:28,852 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-12 22:05:28,857 - lightrag - INFO - Load KV full_docs with 39 data
+2024-11-12 22:05:28,861 - lightrag - INFO - Load KV text_chunks with 140 data
+2024-11-12 22:05:28,862 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-12 22:05:28,880 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 494 nodes, 359 edges
+2024-11-12 22:05:29,619 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:05:29,887 - lightrag - INFO - [New Chunks] inserting 9 chunks
+2024-11-12 22:05:29,887 - lightrag - INFO - Inserting 9 vectors to chunks
+2024-11-12 22:05:30,682 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:05:33,108 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 22:05:33,537 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:05:33,544 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 22:05:33,545 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 22:05:34,117 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:05:35,473 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 22:05:35,734 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:05:35,736 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 22:05:35,736 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 22:05:36,045 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:05:36,602 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 22:05:37,066 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:05:37,076 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 22:05:37,076 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 22:05:37,665 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:05:58,295 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 22:07:14,918 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-12 22:07:14,923 - lightrag - INFO - Load KV full_docs with 39 data
+2024-11-12 22:07:14,928 - lightrag - INFO - Load KV text_chunks with 140 data
+2024-11-12 22:07:14,929 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-12 22:07:14,949 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 494 nodes, 359 edges
+2024-11-12 22:07:15,735 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:07:16,020 - lightrag - INFO - [New Chunks] inserting 9 chunks
+2024-11-12 22:07:16,020 - lightrag - INFO - Inserting 9 vectors to chunks
+2024-11-12 22:07:16,681 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:07:39,136 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 22:07:39,581 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:07:39,596 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 22:07:39,596 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 22:07:40,147 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:07:41,506 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 22:07:41,908 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:07:41,909 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 22:07:41,909 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 22:07:42,231 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:07:53,333 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 22:07:53,867 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:07:53,888 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 22:07:53,888 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 22:07:54,513 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:08:15,175 - lightrag - INFO - Writing graph with 494 nodes, 359 edges
+2024-11-12 22:14:50,043 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-12 22:14:50,047 - lightrag - INFO - Load KV full_docs with 39 data
+2024-11-12 22:14:50,053 - lightrag - INFO - Load KV text_chunks with 140 data
+2024-11-12 22:14:50,054 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-12 22:14:50,074 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 494 nodes, 359 edges
+2024-11-12 22:14:50,881 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:14:51,158 - lightrag - INFO - [New Chunks] inserting 9 chunks
+2024-11-12 22:14:51,158 - lightrag - INFO - Inserting 9 vectors to chunks
+2024-11-12 22:14:51,848 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:16:48,166 - lightrag - INFO - Inserting 43 vectors to entities
+2024-11-12 22:16:49,591 - lightrag - INFO - Inserting 30 vectors to relationships
+2024-11-12 22:16:50,209 - lightrag - INFO - Writing graph with 527 nodes, 389 edges
+2024-11-12 22:16:51,301 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:16:51,325 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 22:16:51,325 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 22:16:51,856 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:17:53,016 - lightrag - INFO - Inserting 24 vectors to entities
+2024-11-12 22:17:53,740 - lightrag - INFO - Inserting 15 vectors to relationships
+2024-11-12 22:17:54,364 - lightrag - INFO - Writing graph with 548 nodes, 404 edges
+2024-11-12 22:17:54,931 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:17:54,939 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 22:17:54,940 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 22:17:55,286 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:18:19,994 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-12 22:18:19,995 - lightrag - WARNING - No new entities and relationships found
+2024-11-12 22:18:20,055 - lightrag - INFO - Writing graph with 548 nodes, 404 edges
+2024-11-12 22:18:20,602 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:18:20,615 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 22:18:20,615 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 22:18:21,216 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:19:39,942 - lightrag - INFO - Inserting 19 vectors to entities
+2024-11-12 22:19:40,768 - lightrag - INFO - Inserting 18 vectors to relationships
+2024-11-12 22:19:41,494 - lightrag - INFO - Writing graph with 558 nodes, 422 edges
+2024-11-12 22:19:42,139 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:19:42,152 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 22:19:42,152 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 22:19:42,679 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:20:58,959 - lightrag - INFO - Inserting 22 vectors to entities
+2024-11-12 22:20:59,655 - lightrag - INFO - Inserting 15 vectors to relationships
+2024-11-12 22:21:00,382 - lightrag - INFO - Writing graph with 573 nodes, 437 edges
+2024-11-12 22:21:01,392 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:21:01,404 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 22:21:01,404 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 22:21:01,935 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:21:56,288 - lightrag - INFO - Inserting 17 vectors to entities
+2024-11-12 22:21:56,975 - lightrag - INFO - Inserting 7 vectors to relationships
+2024-11-12 22:21:57,475 - lightrag - INFO - Writing graph with 584 nodes, 444 edges
+2024-11-12 22:21:58,160 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:21:58,181 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 22:21:58,181 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 22:21:58,607 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:22:29,186 - lightrag - INFO - Inserting 5 vectors to entities
+2024-11-12 22:22:29,629 - lightrag - INFO - Inserting 11 vectors to relationships
+2024-11-12 22:22:30,190 - lightrag - INFO - Writing graph with 594 nodes, 454 edges
+2024-11-12 22:22:31,008 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:22:31,019 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-12 22:22:31,020 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-12 22:22:31,543 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:23:52,638 - lightrag - INFO - Inserting 13 vectors to entities
+2024-11-12 22:23:53,187 - lightrag - INFO - Inserting 12 vectors to relationships
+2024-11-12 22:23:53,785 - lightrag - INFO - Writing graph with 603 nodes, 466 edges
+2024-11-12 22:23:54,495 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:23:54,501 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 22:23:54,501 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 22:23:54,934 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:24:28,734 - lightrag - INFO - Inserting 14 vectors to entities
+2024-11-12 22:24:29,293 - lightrag - INFO - Inserting 10 vectors to relationships
+2024-11-12 22:24:29,822 - lightrag - INFO - Writing graph with 609 nodes, 475 edges
+2024-11-12 22:24:30,468 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:24:30,477 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 22:24:30,477 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 22:24:30,903 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:25:23,153 - lightrag - INFO - Inserting 29 vectors to entities
+2024-11-12 22:25:24,082 - lightrag - INFO - Inserting 20 vectors to relationships
+2024-11-12 22:25:24,780 - lightrag - INFO - Writing graph with 635 nodes, 495 edges
+2024-11-12 22:25:25,507 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:25:25,517 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 22:25:25,517 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 22:25:25,947 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:26:26,417 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-12 22:26:26,418 - lightrag - WARNING - No new entities and relationships found
+2024-11-12 22:26:26,472 - lightrag - INFO - Writing graph with 642 nodes, 495 edges
+2024-11-12 22:26:27,037 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:26:27,052 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 22:26:27,052 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 22:26:27,492 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:26:56,136 - lightrag - INFO - Inserting 10 vectors to entities
+2024-11-12 22:26:56,635 - lightrag - INFO - Inserting 4 vectors to relationships
+2024-11-12 22:26:57,139 - lightrag - INFO - Writing graph with 647 nodes, 498 edges
+2024-11-12 22:26:57,868 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:26:57,872 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 22:26:57,872 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 22:26:58,190 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:27:20,900 - lightrag - INFO - Inserting 10 vectors to entities
+2024-11-12 22:27:21,503 - lightrag - INFO - Inserting 7 vectors to relationships
+2024-11-12 22:27:21,979 - lightrag - INFO - Writing graph with 656 nodes, 505 edges
+2024-11-12 22:27:22,655 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:27:22,674 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-12 22:27:22,674 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-12 22:27:23,235 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:28:43,001 - lightrag - INFO - Inserting 25 vectors to entities
+2024-11-12 22:28:43,826 - lightrag - INFO - Inserting 21 vectors to relationships
+2024-11-12 22:28:44,570 - lightrag - INFO - Writing graph with 674 nodes, 525 edges
+2024-11-12 22:28:45,384 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:28:45,403 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 22:28:45,404 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 22:28:45,798 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:29:34,782 - lightrag - INFO - Inserting 13 vectors to entities
+2024-11-12 22:29:35,376 - lightrag - INFO - Inserting 5 vectors to relationships
+2024-11-12 22:29:35,862 - lightrag - INFO - Writing graph with 679 nodes, 530 edges
+2024-11-12 22:29:36,713 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:29:36,730 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 22:29:36,730 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 22:29:37,263 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:30:23,834 - lightrag - INFO - Inserting 13 vectors to entities
+2024-11-12 22:30:24,427 - lightrag - INFO - Inserting 9 vectors to relationships
+2024-11-12 22:30:25,048 - lightrag - INFO - Writing graph with 690 nodes, 539 edges
+2024-11-12 22:30:25,868 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:30:25,882 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-12 22:30:25,882 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-12 22:30:26,474 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:31:41,291 - lightrag - INFO - Writing graph with 690 nodes, 539 edges
+2024-11-12 22:31:42,051 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:31:42,066 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-12 22:31:42,066 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-12 22:31:42,609 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:33:06,104 - lightrag - INFO - Inserting 28 vectors to entities
+2024-11-12 22:33:06,788 - lightrag - INFO - Inserting 23 vectors to relationships
+2024-11-12 22:33:07,562 - lightrag - INFO - Writing graph with 714 nodes, 562 edges
+2024-11-12 22:33:08,376 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:33:08,385 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 22:33:08,385 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 22:33:08,847 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:33:51,983 - lightrag - INFO - Inserting 15 vectors to entities
+2024-11-12 22:33:52,609 - lightrag - INFO - Inserting 14 vectors to relationships
+2024-11-12 22:33:53,270 - lightrag - INFO - Writing graph with 724 nodes, 575 edges
+2024-11-12 22:33:53,945 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:33:53,956 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 22:33:53,956 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 22:33:54,583 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:35:00,617 - lightrag - INFO - Writing graph with 724 nodes, 575 edges
+2024-11-12 22:35:01,042 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:35:01,055 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 22:35:01,055 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 22:35:01,399 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:35:32,763 - lightrag - INFO - Writing graph with 724 nodes, 575 edges
+2024-11-12 22:35:33,428 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:35:33,445 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-12 22:35:33,445 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-12 22:35:33,965 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:35:55,654 - lightrag - INFO - Writing graph with 724 nodes, 575 edges
+2024-11-12 22:35:56,450 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:35:56,459 - lightrag - INFO - [New Chunks] inserting 9 chunks
+2024-11-12 22:35:56,459 - lightrag - INFO - Inserting 9 vectors to chunks
+2024-11-12 22:35:58,092 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:38:26,753 - lightrag - INFO - Writing graph with 724 nodes, 575 edges
+2024-11-12 22:38:27,281 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:38:27,301 - lightrag - INFO - [New Chunks] inserting 8 chunks
+2024-11-12 22:38:27,301 - lightrag - INFO - Inserting 8 vectors to chunks
+2024-11-12 22:38:27,995 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:57:52,973 - lightrag - INFO - Writing graph with 724 nodes, 575 edges
+2024-11-12 22:57:59,135 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-12 22:57:59,141 - lightrag - INFO - Load KV full_docs with 55 data
+2024-11-12 22:57:59,149 - lightrag - INFO - Load KV text_chunks with 211 data
+2024-11-12 22:57:59,149 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-12 22:57:59,173 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 724 nodes, 575 edges
+2024-11-12 22:57:59,792 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:58:00,028 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 22:58:00,028 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 22:58:00,356 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:58:29,799 - lightrag - INFO - Writing graph with 724 nodes, 575 edges
+2024-11-12 22:58:30,229 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 22:58:30,243 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 22:58:30,243 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 22:58:30,834 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 22:59:11,210 - lightrag - INFO - Writing graph with 724 nodes, 575 edges
+2024-11-12 23:00:03,935 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-12 23:00:03,942 - lightrag - INFO - Load KV full_docs with 55 data
+2024-11-12 23:00:03,950 - lightrag - INFO - Load KV text_chunks with 211 data
+2024-11-12 23:00:03,951 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-12 23:00:03,975 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 724 nodes, 575 edges
+2024-11-12 23:00:04,623 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:00:04,853 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 23:00:04,853 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 23:00:05,149 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:00:18,767 - lightrag - INFO - Writing graph with 724 nodes, 575 edges
+2024-11-12 23:01:20,032 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-12 23:01:20,037 - lightrag - INFO - Load KV full_docs with 55 data
+2024-11-12 23:01:20,043 - lightrag - INFO - Load KV text_chunks with 211 data
+2024-11-12 23:01:20,043 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-12 23:01:20,061 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 724 nodes, 575 edges
+2024-11-12 23:01:22,273 - lightrag - INFO - Local query uses 60 entites, 149 relations, 3 text units
+2024-11-12 23:01:22,590 - lightrag - INFO - Global query uses 56 entites, 60 relations, 3 text units
+2024-11-12 23:03:30,081 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-12 23:03:30,088 - lightrag - INFO - Load KV full_docs with 55 data
+2024-11-12 23:03:30,096 - lightrag - INFO - Load KV text_chunks with 211 data
+2024-11-12 23:03:30,097 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-12 23:03:30,121 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 724 nodes, 575 edges
+2024-11-12 23:04:27,061 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-12 23:04:27,067 - lightrag - INFO - Load KV full_docs with 55 data
+2024-11-12 23:04:27,075 - lightrag - INFO - Load KV text_chunks with 211 data
+2024-11-12 23:04:27,075 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-12 23:04:27,102 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 724 nodes, 575 edges
+2024-11-12 23:04:29,727 - lightrag - INFO - Local query uses 60 entites, 149 relations, 3 text units
+2024-11-12 23:04:30,010 - lightrag - INFO - Global query uses 51 entites, 60 relations, 3 text units
+2024-11-12 23:05:29,455 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-12 23:05:29,460 - lightrag - INFO - Load KV full_docs with 55 data
+2024-11-12 23:05:29,466 - lightrag - INFO - Load KV text_chunks with 211 data
+2024-11-12 23:05:29,466 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-12 23:05:29,480 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 724 nodes, 575 edges
+2024-11-12 23:05:30,047 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:05:30,265 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-12 23:05:30,265 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-12 23:05:30,673 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:05:48,860 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-12 23:05:48,860 - lightrag - WARNING - No new entities and relationships found
+2024-11-12 23:05:48,932 - lightrag - INFO - Writing graph with 724 nodes, 575 edges
+2024-11-12 23:05:49,417 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:05:49,424 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 23:05:49,425 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 23:05:49,809 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:06:33,475 - lightrag - INFO - Inserting 12 vectors to entities
+2024-11-12 23:06:34,000 - lightrag - INFO - Inserting 3 vectors to relationships
+2024-11-12 23:06:34,457 - lightrag - INFO - Writing graph with 726 nodes, 578 edges
+2024-11-12 23:06:35,450 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:06:35,460 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-12 23:06:35,461 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-12 23:06:36,030 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:07:54,684 - lightrag - INFO - Inserting 30 vectors to entities
+2024-11-12 23:07:55,307 - lightrag - INFO - Inserting 11 vectors to relationships
+2024-11-12 23:07:55,940 - lightrag - INFO - Writing graph with 752 nodes, 589 edges
+2024-11-12 23:07:56,812 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:07:56,821 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 23:07:56,821 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 23:07:57,332 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:08:52,830 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-12 23:08:52,831 - lightrag - WARNING - No new entities and relationships found
+2024-11-12 23:08:52,908 - lightrag - INFO - Writing graph with 752 nodes, 589 edges
+2024-11-12 23:08:53,313 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:08:53,320 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 23:08:53,321 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 23:08:53,709 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:09:37,752 - lightrag - INFO - Inserting 15 vectors to entities
+2024-11-12 23:09:38,464 - lightrag - INFO - Inserting 14 vectors to relationships
+2024-11-12 23:09:39,047 - lightrag - INFO - Writing graph with 765 nodes, 603 edges
+2024-11-12 23:09:39,815 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:09:39,824 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-12 23:09:39,824 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-12 23:09:40,353 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:11:13,487 - lightrag - INFO - Inserting 29 vectors to entities
+2024-11-12 23:11:14,419 - lightrag - INFO - Inserting 15 vectors to relationships
+2024-11-12 23:11:15,076 - lightrag - INFO - Writing graph with 787 nodes, 617 edges
+2024-11-12 23:11:15,959 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:11:15,973 - lightrag - INFO - [New Chunks] inserting 9 chunks
+2024-11-12 23:11:15,973 - lightrag - INFO - Inserting 9 vectors to chunks
+2024-11-12 23:11:16,639 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:13:12,684 - lightrag - INFO - Inserting 29 vectors to entities
+2024-11-12 23:13:13,583 - lightrag - INFO - Inserting 25 vectors to relationships
+2024-11-12 23:13:14,290 - lightrag - INFO - Writing graph with 811 nodes, 642 edges
+2024-11-12 23:13:15,048 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:13:15,062 - lightrag - INFO - [New Chunks] inserting 8 chunks
+2024-11-12 23:13:15,062 - lightrag - INFO - Inserting 8 vectors to chunks
+2024-11-12 23:13:15,758 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:14:44,514 - lightrag - INFO - Inserting 33 vectors to entities
+2024-11-12 23:14:45,645 - lightrag - INFO - Inserting 32 vectors to relationships
+2024-11-12 23:14:46,318 - lightrag - INFO - Writing graph with 839 nodes, 674 edges
+2024-11-12 23:14:47,094 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:14:47,106 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 23:14:47,106 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 23:14:47,531 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:15:29,945 - lightrag - INFO - Inserting 22 vectors to entities
+2024-11-12 23:15:30,594 - lightrag - INFO - Inserting 5 vectors to relationships
+2024-11-12 23:15:31,148 - lightrag - INFO - Writing graph with 859 nodes, 679 edges
+2024-11-12 23:15:31,842 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:15:31,847 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 23:15:31,847 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 23:15:32,319 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:16:03,758 - lightrag - INFO - Inserting 12 vectors to entities
+2024-11-12 23:16:04,338 - lightrag - INFO - Inserting 6 vectors to relationships
+2024-11-12 23:16:04,881 - lightrag - INFO - Writing graph with 866 nodes, 685 edges
+2024-11-12 23:16:05,619 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:16:05,629 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 23:16:05,629 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 23:16:06,032 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:16:40,267 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-12 23:16:40,267 - lightrag - WARNING - No new entities and relationships found
+2024-11-12 23:16:40,346 - lightrag - INFO - Writing graph with 876 nodes, 685 edges
+2024-11-12 23:16:40,917 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:16:40,930 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-12 23:16:40,931 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-12 23:16:41,518 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:18:01,623 - lightrag - INFO - Inserting 30 vectors to entities
+2024-11-12 23:18:02,559 - lightrag - INFO - Inserting 24 vectors to relationships
+2024-11-12 23:18:03,290 - lightrag - INFO - Writing graph with 900 nodes, 708 edges
+2024-11-12 23:18:04,243 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:18:04,259 - lightrag - INFO - [New Chunks] inserting 11 chunks
+2024-11-12 23:18:04,259 - lightrag - INFO - Inserting 11 vectors to chunks
+2024-11-12 23:18:04,977 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:21:37,329 - lightrag - INFO - Writing graph with 900 nodes, 708 edges
+2024-11-12 23:21:37,861 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:21:37,906 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 23:21:37,906 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 23:21:38,361 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:22:31,936 - lightrag - INFO - Inserting 14 vectors to entities
+2024-11-12 23:22:32,478 - lightrag - INFO - Inserting 4 vectors to relationships
+2024-11-12 23:22:32,953 - lightrag - INFO - Writing graph with 914 nodes, 712 edges
+2024-11-12 23:22:33,864 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:22:33,868 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 23:22:33,868 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 23:22:34,268 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:23:15,790 - lightrag - INFO - Inserting 16 vectors to entities
+2024-11-12 23:23:16,359 - lightrag - INFO - Inserting 12 vectors to relationships
+2024-11-12 23:23:17,082 - lightrag - INFO - Writing graph with 927 nodes, 723 edges
+2024-11-12 23:23:17,977 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:23:17,994 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 23:23:17,994 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 23:23:18,611 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:24:21,100 - lightrag - INFO - Inserting 16 vectors to entities
+2024-11-12 23:24:21,755 - lightrag - INFO - Inserting 19 vectors to relationships
+2024-11-12 23:24:22,595 - lightrag - INFO - Writing graph with 938 nodes, 742 edges
+2024-11-12 23:24:23,322 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:24:23,336 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 23:24:23,336 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 23:24:23,834 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:25:14,859 - lightrag - INFO - Inserting 14 vectors to entities
+2024-11-12 23:25:15,464 - lightrag - INFO - Inserting 10 vectors to relationships
+2024-11-12 23:25:16,089 - lightrag - INFO - Writing graph with 948 nodes, 752 edges
+2024-11-12 23:25:16,676 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:25:16,685 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 23:25:16,685 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 23:25:17,087 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:25:53,897 - lightrag - INFO - Inserting 9 vectors to entities
+2024-11-12 23:25:54,438 - lightrag - INFO - Inserting 3 vectors to relationships
+2024-11-12 23:25:54,832 - lightrag - INFO - Writing graph with 956 nodes, 755 edges
+2024-11-12 23:25:55,795 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:25:55,805 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 23:25:55,805 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 23:25:56,228 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:27:05,663 - lightrag - INFO - Inserting 20 vectors to entities
+2024-11-12 23:27:06,358 - lightrag - INFO - Inserting 15 vectors to relationships
+2024-11-12 23:27:06,981 - lightrag - INFO - Writing graph with 973 nodes, 770 edges
+2024-11-12 23:27:07,853 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:27:07,863 - lightrag - INFO - [New Chunks] inserting 11 chunks
+2024-11-12 23:27:07,863 - lightrag - INFO - Inserting 11 vectors to chunks
+2024-11-12 23:27:08,619 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:30:25,784 - lightrag - INFO - Inserting 61 vectors to entities
+2024-11-12 23:30:27,522 - lightrag - INFO - Inserting 53 vectors to relationships
+2024-11-12 23:30:29,055 - lightrag - INFO - Writing graph with 1026 nodes, 822 edges
+2024-11-12 23:30:29,962 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:30:29,974 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-12 23:30:29,975 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-12 23:30:30,490 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:32:39,123 - lightrag - INFO - Writing graph with 1026 nodes, 822 edges
+2024-11-12 23:32:39,927 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:32:39,933 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-12 23:32:39,933 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-12 23:32:40,378 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:34:58,812 - lightrag - INFO - Writing graph with 1026 nodes, 822 edges
+2024-11-12 23:34:59,315 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:34:59,339 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-12 23:34:59,339 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-12 23:35:00,369 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:37:00,563 - lightrag - INFO - Writing graph with 1026 nodes, 822 edges
+2024-11-12 23:37:01,243 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:37:01,256 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-12 23:37:01,257 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-12 23:37:01,927 - lightrag - INFO - [Entity Extraction]...
+2024-11-12 23:38:50,510 - lightrag - INFO - Writing graph with 1026 nodes, 822 edges
+2024-11-12 23:38:51,039 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-12 23:38:51,052 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-12 23:38:51,052 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-12 23:38:51,444 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:08:19,384 - lightrag - INFO - Writing graph with 1026 nodes, 822 edges
+2024-11-13 07:08:53,726 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-13 07:08:53,733 - lightrag - INFO - Load KV full_docs with 71 data
+2024-11-13 07:08:53,739 - lightrag - INFO - Load KV text_chunks with 292 data
+2024-11-13 07:08:53,740 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-13 07:08:53,814 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 1026 nodes, 822 edges
+2024-11-13 07:08:54,404 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:08:54,621 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:08:54,621 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:08:54,942 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:09:15,660 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 07:09:15,662 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 07:09:15,751 - lightrag - INFO - Writing graph with 1026 nodes, 822 edges
+2024-11-13 07:09:16,016 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:09:16,033 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 07:09:16,033 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 07:09:16,565 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:10:09,423 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 07:10:09,424 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 07:10:09,515 - lightrag - INFO - Writing graph with 1026 nodes, 822 edges
+2024-11-13 07:10:10,087 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:10:10,095 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 07:10:10,095 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 07:10:10,500 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:10:43,161 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 07:10:43,161 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 07:10:43,234 - lightrag - INFO - Writing graph with 1027 nodes, 822 edges
+2024-11-13 07:10:43,907 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:10:43,921 - lightrag - INFO - [New Chunks] inserting 11 chunks
+2024-11-13 07:10:43,921 - lightrag - INFO - Inserting 11 vectors to chunks
+2024-11-13 07:10:44,714 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:14:04,946 - lightrag - INFO - Inserting 70 vectors to entities
+2024-11-13 07:14:08,170 - lightrag - INFO - Inserting 47 vectors to relationships
+2024-11-13 07:14:09,630 - lightrag - INFO - Writing graph with 1087 nodes, 869 edges
+2024-11-13 07:14:10,431 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:14:10,437 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-13 07:14:10,437 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-13 07:14:10,981 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:15:25,511 - lightrag - INFO - Inserting 19 vectors to entities
+2024-11-13 07:15:26,107 - lightrag - INFO - Inserting 6 vectors to relationships
+2024-11-13 07:15:26,668 - lightrag - INFO - Writing graph with 1102 nodes, 875 edges
+2024-11-13 07:15:27,403 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:15:27,415 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 07:15:27,415 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 07:15:27,858 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:16:07,683 - lightrag - INFO - Inserting 16 vectors to entities
+2024-11-13 07:16:08,253 - lightrag - INFO - Inserting 3 vectors to relationships
+2024-11-13 07:16:08,717 - lightrag - INFO - Writing graph with 1111 nodes, 878 edges
+2024-11-13 07:16:09,543 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:16:09,557 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-13 07:16:09,557 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-13 07:16:10,117 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:17:06,021 - lightrag - INFO - Inserting 15 vectors to entities
+2024-11-13 07:17:06,651 - lightrag - INFO - Inserting 13 vectors to relationships
+2024-11-13 07:17:07,294 - lightrag - INFO - Writing graph with 1121 nodes, 889 edges
+2024-11-13 07:17:08,252 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:17:08,271 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-13 07:17:08,271 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-13 07:17:08,966 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:18:48,687 - lightrag - INFO - Inserting 30 vectors to entities
+2024-11-13 07:18:49,387 - lightrag - INFO - Inserting 35 vectors to relationships
+2024-11-13 07:18:50,804 - lightrag - INFO - Writing graph with 1145 nodes, 924 edges
+2024-11-13 07:18:51,586 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:18:51,598 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 07:18:51,598 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 07:18:52,003 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:19:35,946 - lightrag - INFO - Inserting 12 vectors to entities
+2024-11-13 07:19:36,527 - lightrag - INFO - Inserting 15 vectors to relationships
+2024-11-13 07:19:37,193 - lightrag - INFO - Writing graph with 1155 nodes, 938 edges
+2024-11-13 07:19:37,922 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:19:37,931 - lightrag - INFO - [New Chunks] inserting 8 chunks
+2024-11-13 07:19:37,931 - lightrag - INFO - Inserting 8 vectors to chunks
+2024-11-13 07:19:38,541 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:22:04,941 - lightrag - INFO - Inserting 45 vectors to entities
+2024-11-13 07:22:06,405 - lightrag - INFO - Inserting 38 vectors to relationships
+2024-11-13 07:22:07,848 - lightrag - INFO - Writing graph with 1193 nodes, 976 edges
+2024-11-13 07:22:08,852 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:22:08,866 - lightrag - INFO - [New Chunks] inserting 14 chunks
+2024-11-13 07:22:08,866 - lightrag - INFO - Inserting 14 vectors to chunks
+2024-11-13 07:22:09,714 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:26:51,654 - lightrag - INFO - Inserting 115 vectors to entities
+2024-11-13 07:26:55,012 - lightrag - INFO - Inserting 74 vectors to relationships
+2024-11-13 07:26:57,149 - lightrag - INFO - Writing graph with 1285 nodes, 1049 edges
+2024-11-13 07:26:58,205 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:26:58,218 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 07:26:58,218 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 07:26:58,812 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:28:51,500 - lightrag - INFO - Inserting 17 vectors to entities
+2024-11-13 07:28:52,131 - lightrag - INFO - Inserting 14 vectors to relationships
+2024-11-13 07:28:52,796 - lightrag - INFO - Writing graph with 1299 nodes, 1063 edges
+2024-11-13 07:28:53,818 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:28:53,834 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 07:28:53,834 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 07:28:54,196 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:30:43,062 - lightrag - INFO - Inserting 13 vectors to entities
+2024-11-13 07:30:43,607 - lightrag - INFO - Inserting 12 vectors to relationships
+2024-11-13 07:30:44,252 - lightrag - INFO - Writing graph with 1309 nodes, 1075 edges
+2024-11-13 07:30:45,201 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:30:45,217 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:30:45,217 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:30:45,573 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:31:08,581 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 07:31:08,582 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 07:31:08,687 - lightrag - INFO - Writing graph with 1317 nodes, 1075 edges
+2024-11-13 07:31:09,185 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:31:09,189 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:31:09,189 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:31:09,567 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:31:39,948 - lightrag - INFO - Inserting 15 vectors to entities
+2024-11-13 07:31:40,527 - lightrag - INFO - Inserting 14 vectors to relationships
+2024-11-13 07:31:41,140 - lightrag - INFO - Writing graph with 1332 nodes, 1089 edges
+2024-11-13 07:31:41,756 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:31:41,761 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:31:41,761 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:31:42,051 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:31:57,795 - lightrag - INFO - Inserting 7 vectors to entities
+2024-11-13 07:31:58,271 - lightrag - INFO - Inserting 6 vectors to relationships
+2024-11-13 07:31:58,873 - lightrag - INFO - Writing graph with 1338 nodes, 1095 edges
+2024-11-13 07:31:59,461 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:31:59,469 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:31:59,469 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:31:59,742 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:32:27,901 - lightrag - INFO - Inserting 11 vectors to entities
+2024-11-13 07:32:28,498 - lightrag - INFO - Inserting 5 vectors to relationships
+2024-11-13 07:32:29,039 - lightrag - INFO - Writing graph with 1347 nodes, 1100 edges
+2024-11-13 07:32:29,904 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:32:29,916 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-13 07:32:29,916 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-13 07:32:30,470 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:34:04,791 - lightrag - INFO - Inserting 18 vectors to entities
+2024-11-13 07:34:05,460 - lightrag - INFO - Inserting 18 vectors to relationships
+2024-11-13 07:34:06,213 - lightrag - INFO - Writing graph with 1361 nodes, 1117 edges
+2024-11-13 07:34:07,057 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:34:07,065 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:34:07,065 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:34:07,373 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:35:00,603 - lightrag - INFO - Inserting 11 vectors to entities
+2024-11-13 07:35:01,230 - lightrag - INFO - Inserting 11 vectors to relationships
+2024-11-13 07:35:02,082 - lightrag - INFO - Writing graph with 1368 nodes, 1128 edges
+2024-11-13 07:35:03,064 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:35:03,072 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:35:03,073 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:35:03,572 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:37:04,993 - lightrag - INFO - Inserting 12 vectors to entities
+2024-11-13 07:37:05,545 - lightrag - INFO - Inserting 12 vectors to relationships
+2024-11-13 07:37:06,181 - lightrag - INFO - Writing graph with 1376 nodes, 1138 edges
+2024-11-13 07:37:07,221 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:37:07,226 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:37:07,226 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:37:07,539 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:39:08,678 - lightrag - INFO - Writing graph with 1376 nodes, 1138 edges
+2024-11-13 07:39:09,079 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:39:09,092 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 07:39:09,092 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 07:39:09,540 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:40:58,955 - lightrag - INFO - Writing graph with 1376 nodes, 1138 edges
+2024-11-13 07:40:59,593 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:40:59,605 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:40:59,605 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:40:59,895 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:42:51,708 - lightrag - INFO - Writing graph with 1376 nodes, 1138 edges
+2024-11-13 07:42:52,296 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:42:52,307 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:42:52,307 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:42:52,612 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:44:44,368 - lightrag - INFO - Writing graph with 1376 nodes, 1138 edges
+2024-11-13 07:44:44,751 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:44:44,762 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:44:44,762 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:44:45,149 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:44:56,044 - lightrag - INFO - Writing graph with 1376 nodes, 1138 edges
+2024-11-13 07:46:42,548 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-13 07:46:42,559 - lightrag - INFO - Load KV full_docs with 87 data
+2024-11-13 07:46:42,572 - lightrag - INFO - Load KV text_chunks with 372 data
+2024-11-13 07:46:42,572 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-13 07:46:42,660 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 1376 nodes, 1138 edges
+2024-11-13 07:46:43,286 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:46:43,510 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:46:43,510 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:46:43,793 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:47:05,042 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 07:47:05,043 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 07:47:05,195 - lightrag - INFO - Writing graph with 1376 nodes, 1138 edges
+2024-11-13 07:47:05,539 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:47:05,548 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 07:47:05,548 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 07:47:06,155 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:47:58,411 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 07:47:58,412 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 07:47:58,587 - lightrag - INFO - Writing graph with 1377 nodes, 1138 edges
+2024-11-13 07:47:59,273 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:47:59,277 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 07:47:59,277 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 07:47:59,691 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:48:33,472 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 07:48:33,473 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 07:48:33,594 - lightrag - INFO - Writing graph with 1377 nodes, 1138 edges
+2024-11-13 07:48:34,111 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:48:34,119 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:48:34,120 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:48:34,440 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:48:54,808 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 07:48:54,809 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 07:48:54,917 - lightrag - INFO - Writing graph with 1378 nodes, 1138 edges
+2024-11-13 07:48:55,231 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:48:55,241 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:48:55,241 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:48:55,589 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:49:23,591 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 07:49:23,591 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 07:49:23,709 - lightrag - INFO - Writing graph with 1389 nodes, 1138 edges
+2024-11-13 07:49:24,244 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:49:24,252 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 07:49:24,252 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 07:49:24,681 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:49:54,179 - lightrag - INFO - Inserting 14 vectors to entities
+2024-11-13 07:49:54,769 - lightrag - INFO - Inserting 5 vectors to relationships
+2024-11-13 07:49:55,333 - lightrag - INFO - Writing graph with 1402 nodes, 1143 edges
+2024-11-13 07:49:55,970 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:49:55,989 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:49:55,989 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:49:56,321 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:50:21,622 - lightrag - INFO - Inserting 11 vectors to entities
+2024-11-13 07:50:22,109 - lightrag - INFO - Inserting 5 vectors to relationships
+2024-11-13 07:50:22,664 - lightrag - INFO - Writing graph with 1408 nodes, 1146 edges
+2024-11-13 07:50:23,521 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:50:23,525 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:50:23,525 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:50:23,867 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:50:50,613 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 07:50:50,613 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 07:50:50,718 - lightrag - INFO - Writing graph with 1413 nodes, 1146 edges
+2024-11-13 07:50:51,011 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:50:51,020 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:50:51,020 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:50:51,325 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:51:17,622 - lightrag - INFO - Inserting 14 vectors to entities
+2024-11-13 07:51:18,199 - lightrag - INFO - Inserting 6 vectors to relationships
+2024-11-13 07:51:18,850 - lightrag - INFO - Writing graph with 1425 nodes, 1152 edges
+2024-11-13 07:51:19,730 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:51:19,741 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-13 07:51:19,742 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-13 07:51:20,281 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:52:19,603 - lightrag - INFO - Inserting 27 vectors to entities
+2024-11-13 07:52:20,244 - lightrag - INFO - Inserting 11 vectors to relationships
+2024-11-13 07:52:20,938 - lightrag - INFO - Writing graph with 1450 nodes, 1163 edges
+2024-11-13 07:52:21,572 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:52:21,579 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:52:21,580 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:52:22,004 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:52:45,193 - lightrag - INFO - Inserting 7 vectors to entities
+2024-11-13 07:52:45,671 - lightrag - INFO - Inserting 5 vectors to relationships
+2024-11-13 07:52:46,236 - lightrag - INFO - Writing graph with 1451 nodes, 1168 edges
+2024-11-13 07:52:47,106 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:52:47,116 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-13 07:52:47,116 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-13 07:52:47,690 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:53:27,338 - lightrag - INFO - Inserting 11 vectors to entities
+2024-11-13 07:53:27,849 - lightrag - INFO - Inserting 10 vectors to relationships
+2024-11-13 07:53:28,542 - lightrag - INFO - Writing graph with 1460 nodes, 1178 edges
+2024-11-13 07:53:29,390 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:53:29,407 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 07:53:29,407 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 07:53:29,876 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:54:03,967 - lightrag - INFO - Inserting 11 vectors to entities
+2024-11-13 07:54:04,531 - lightrag - INFO - Inserting 7 vectors to relationships
+2024-11-13 07:54:05,105 - lightrag - INFO - Writing graph with 1468 nodes, 1185 edges
+2024-11-13 07:54:05,998 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:54:06,010 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-13 07:54:06,010 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-13 07:54:06,556 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:55:48,385 - lightrag - INFO - Inserting 36 vectors to entities
+2024-11-13 07:55:49,742 - lightrag - INFO - Inserting 32 vectors to relationships
+2024-11-13 07:55:50,735 - lightrag - INFO - Writing graph with 1495 nodes, 1216 edges
+2024-11-13 07:55:51,850 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:55:51,869 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-13 07:55:51,869 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-13 07:55:52,635 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:57:06,872 - lightrag - INFO - Inserting 21 vectors to entities
+2024-11-13 07:57:07,558 - lightrag - INFO - Inserting 4 vectors to relationships
+2024-11-13 07:57:08,105 - lightrag - INFO - Writing graph with 1509 nodes, 1220 edges
+2024-11-13 07:57:08,918 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:57:08,922 - lightrag - INFO - [New Chunks] inserting 6 chunks
+2024-11-13 07:57:08,923 - lightrag - INFO - Inserting 6 vectors to chunks
+2024-11-13 07:57:09,408 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:58:18,206 - lightrag - INFO - Inserting 25 vectors to entities
+2024-11-13 07:58:19,020 - lightrag - INFO - Inserting 22 vectors to relationships
+2024-11-13 07:58:19,809 - lightrag - INFO - Writing graph with 1525 nodes, 1239 edges
+2024-11-13 07:58:20,738 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:58:20,753 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 07:58:20,753 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 07:58:21,190 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:59:08,915 - lightrag - INFO - Inserting 19 vectors to entities
+2024-11-13 07:59:09,546 - lightrag - INFO - Inserting 16 vectors to relationships
+2024-11-13 07:59:10,363 - lightrag - INFO - Writing graph with 1540 nodes, 1253 edges
+2024-11-13 07:59:11,120 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:59:11,126 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 07:59:11,126 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 07:59:11,551 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 07:59:55,942 - lightrag - INFO - Inserting 13 vectors to entities
+2024-11-13 07:59:56,593 - lightrag - INFO - Inserting 10 vectors to relationships
+2024-11-13 07:59:57,237 - lightrag - INFO - Writing graph with 1551 nodes, 1263 edges
+2024-11-13 07:59:57,928 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 07:59:57,938 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 07:59:57,938 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 07:59:58,270 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:00:13,161 - lightrag - INFO - Inserting 4 vectors to entities
+2024-11-13 08:00:13,615 - lightrag - INFO - Inserting 3 vectors to relationships
+2024-11-13 08:00:14,089 - lightrag - INFO - Writing graph with 1553 nodes, 1266 edges
+2024-11-13 08:00:14,807 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:00:14,815 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 08:00:14,815 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 08:00:15,291 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:00:54,961 - lightrag - INFO - Inserting 24 vectors to entities
+2024-11-13 08:00:55,768 - lightrag - INFO - Inserting 6 vectors to relationships
+2024-11-13 08:00:56,308 - lightrag - INFO - Writing graph with 1567 nodes, 1272 edges
+2024-11-13 08:00:57,166 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:00:57,178 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-13 08:00:57,178 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-13 08:00:57,756 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:02:07,775 - lightrag - INFO - Inserting 32 vectors to entities
+2024-11-13 08:02:08,538 - lightrag - INFO - Inserting 19 vectors to relationships
+2024-11-13 08:02:09,346 - lightrag - INFO - Writing graph with 1592 nodes, 1291 edges
+2024-11-13 08:02:10,314 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:02:10,326 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-13 08:02:10,326 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-13 08:02:10,943 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:03:42,398 - lightrag - INFO - Inserting 35 vectors to entities
+2024-11-13 08:03:43,463 - lightrag - INFO - Inserting 21 vectors to relationships
+2024-11-13 08:03:44,335 - lightrag - INFO - Writing graph with 1623 nodes, 1312 edges
+2024-11-13 08:03:45,367 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:03:45,381 - lightrag - INFO - [New Chunks] inserting 8 chunks
+2024-11-13 08:03:45,381 - lightrag - INFO - Inserting 8 vectors to chunks
+2024-11-13 08:03:46,085 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:05:41,830 - lightrag - INFO - Inserting 56 vectors to entities
+2024-11-13 08:05:43,381 - lightrag - INFO - Inserting 23 vectors to relationships
+2024-11-13 08:05:44,310 - lightrag - INFO - Writing graph with 1663 nodes, 1335 edges
+2024-11-13 08:05:45,241 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:05:45,247 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 08:05:45,247 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 08:05:45,666 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:06:27,544 - lightrag - INFO - Inserting 9 vectors to entities
+2024-11-13 08:06:28,056 - lightrag - INFO - Inserting 10 vectors to relationships
+2024-11-13 08:06:28,783 - lightrag - INFO - Writing graph with 1668 nodes, 1344 edges
+2024-11-13 08:06:29,654 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:06:29,665 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:06:29,665 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:06:30,157 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:07:11,927 - lightrag - INFO - Inserting 18 vectors to entities
+2024-11-13 08:07:12,657 - lightrag - INFO - Inserting 8 vectors to relationships
+2024-11-13 08:07:13,282 - lightrag - INFO - Writing graph with 1679 nodes, 1352 edges
+2024-11-13 08:07:14,189 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:07:14,219 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 08:07:14,220 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 08:07:14,632 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:08:13,200 - lightrag - INFO - Inserting 16 vectors to entities
+2024-11-13 08:08:13,841 - lightrag - INFO - Inserting 4 vectors to relationships
+2024-11-13 08:08:14,348 - lightrag - INFO - Writing graph with 1690 nodes, 1356 edges
+2024-11-13 08:08:15,311 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:08:15,323 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-13 08:08:15,323 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-13 08:08:15,946 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:11:17,916 - lightrag - INFO - Inserting 30 vectors to entities
+2024-11-13 08:11:18,960 - lightrag - INFO - Inserting 16 vectors to relationships
+2024-11-13 08:11:19,834 - lightrag - INFO - Writing graph with 1710 nodes, 1372 edges
+2024-11-13 08:11:21,693 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:11:21,706 - lightrag - INFO - [New Chunks] inserting 8 chunks
+2024-11-13 08:11:21,706 - lightrag - INFO - Inserting 8 vectors to chunks
+2024-11-13 08:11:22,339 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:14:24,397 - lightrag - INFO - Writing graph with 1710 nodes, 1372 edges
+2024-11-13 08:14:24,800 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:14:24,809 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:14:24,809 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:14:25,161 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:16:37,652 - lightrag - INFO - Writing graph with 1710 nodes, 1372 edges
+2024-11-13 08:16:38,186 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:16:38,197 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:16:38,197 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:16:38,775 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:18:41,618 - lightrag - INFO - Writing graph with 1710 nodes, 1372 edges
+2024-11-13 08:18:42,214 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:18:42,222 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:18:42,222 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:18:42,684 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:20:32,361 - lightrag - INFO - Writing graph with 1710 nodes, 1372 edges
+2024-11-13 08:20:32,715 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:20:32,722 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-13 08:20:32,722 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-13 08:20:33,004 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:20:47,147 - lightrag - INFO - Writing graph with 1710 nodes, 1372 edges
+2024-11-13 08:20:59,739 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-13 08:20:59,757 - lightrag - INFO - Load KV full_docs with 108 data
+2024-11-13 08:20:59,773 - lightrag - INFO - Load KV text_chunks with 461 data
+2024-11-13 08:20:59,774 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-13 08:20:59,861 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 1710 nodes, 1372 edges
+2024-11-13 08:21:00,435 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:21:00,648 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:21:00,648 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:21:00,942 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:21:26,305 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:21:26,306 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:21:26,438 - lightrag - INFO - Writing graph with 1710 nodes, 1372 edges
+2024-11-13 08:21:26,781 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:21:26,792 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:21:26,792 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:21:27,331 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:22:16,720 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:22:16,721 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:22:16,851 - lightrag - INFO - Writing graph with 1711 nodes, 1372 edges
+2024-11-13 08:22:17,305 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:22:17,313 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 08:22:17,313 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 08:22:17,760 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:22:50,960 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:22:50,962 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:22:51,094 - lightrag - INFO - Writing graph with 1711 nodes, 1372 edges
+2024-11-13 08:22:51,623 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:22:51,627 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:22:51,627 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:22:51,969 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:23:14,625 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:23:14,626 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:23:14,762 - lightrag - INFO - Writing graph with 1711 nodes, 1372 edges
+2024-11-13 08:23:15,146 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:23:15,167 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:23:15,167 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:23:15,474 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:23:39,451 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:23:39,452 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:23:39,598 - lightrag - INFO - Writing graph with 1711 nodes, 1372 edges
+2024-11-13 08:23:40,016 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:23:40,023 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:23:40,023 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:23:40,319 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:24:02,361 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:24:02,362 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:24:02,515 - lightrag - INFO - Writing graph with 1711 nodes, 1372 edges
+2024-11-13 08:24:03,183 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:24:03,198 - lightrag - INFO - [New Chunks] inserting 8 chunks
+2024-11-13 08:24:03,198 - lightrag - INFO - Inserting 8 vectors to chunks
+2024-11-13 08:24:04,311 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:25:47,849 - lightrag - INFO - Inserting 36 vectors to entities
+2024-11-13 08:25:48,972 - lightrag - INFO - Inserting 27 vectors to relationships
+2024-11-13 08:25:50,048 - lightrag - INFO - Writing graph with 1743 nodes, 1399 edges
+2024-11-13 08:25:50,802 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:25:50,820 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:25:50,820 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:25:51,156 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:26:20,336 - lightrag - INFO - Inserting 12 vectors to entities
+2024-11-13 08:26:21,021 - lightrag - INFO - Inserting 5 vectors to relationships
+2024-11-13 08:26:21,693 - lightrag - INFO - Writing graph with 1750 nodes, 1403 edges
+2024-11-13 08:26:22,769 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:26:22,777 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:26:22,777 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:26:23,241 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:27:15,748 - lightrag - INFO - Inserting 23 vectors to entities
+2024-11-13 08:27:16,493 - lightrag - INFO - Inserting 10 vectors to relationships
+2024-11-13 08:27:17,192 - lightrag - INFO - Writing graph with 1763 nodes, 1412 edges
+2024-11-13 08:27:17,934 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:27:17,942 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:27:17,942 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:27:18,414 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:28:05,277 - lightrag - INFO - Inserting 18 vectors to entities
+2024-11-13 08:28:06,012 - lightrag - INFO - Inserting 5 vectors to relationships
+2024-11-13 08:28:06,548 - lightrag - INFO - Writing graph with 1773 nodes, 1417 edges
+2024-11-13 08:28:07,132 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:28:07,138 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-13 08:28:07,138 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-13 08:28:07,436 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:28:15,159 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:28:15,159 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:28:15,280 - lightrag - INFO - Writing graph with 1776 nodes, 1417 edges
+2024-11-13 08:28:15,909 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:28:15,914 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-13 08:28:15,914 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-13 08:28:16,461 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:29:41,219 - lightrag - INFO - Inserting 39 vectors to entities
+2024-11-13 08:29:42,367 - lightrag - INFO - Inserting 24 vectors to relationships
+2024-11-13 08:29:43,208 - lightrag - INFO - Writing graph with 1808 nodes, 1441 edges
+2024-11-13 08:29:44,105 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:29:44,109 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:29:44,109 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:29:44,426 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:30:03,040 - lightrag - INFO - Inserting 6 vectors to entities
+2024-11-13 08:30:03,496 - lightrag - INFO - Inserting 4 vectors to relationships
+2024-11-13 08:30:04,046 - lightrag - INFO - Writing graph with 1811 nodes, 1445 edges
+2024-11-13 08:30:04,902 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:30:04,924 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:30:04,924 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:30:05,522 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:30:50,469 - lightrag - INFO - Inserting 17 vectors to entities
+2024-11-13 08:30:51,137 - lightrag - INFO - Inserting 5 vectors to relationships
+2024-11-13 08:30:51,664 - lightrag - INFO - Writing graph with 1819 nodes, 1448 edges
+2024-11-13 08:30:52,678 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:30:52,693 - lightrag - INFO - [New Chunks] inserting 10 chunks
+2024-11-13 08:30:52,693 - lightrag - INFO - Inserting 10 vectors to chunks
+2024-11-13 08:30:53,408 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:33:38,072 - lightrag - INFO - Inserting 57 vectors to entities
+2024-11-13 08:33:39,793 - lightrag - INFO - Inserting 43 vectors to relationships
+2024-11-13 08:33:41,115 - lightrag - INFO - Writing graph with 1863 nodes, 1489 edges
+2024-11-13 08:33:42,362 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:33:42,372 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-13 08:33:42,373 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-13 08:33:42,930 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:35:15,654 - lightrag - INFO - Inserting 31 vectors to entities
+2024-11-13 08:35:16,409 - lightrag - INFO - Inserting 19 vectors to relationships
+2024-11-13 08:35:17,146 - lightrag - INFO - Writing graph with 1882 nodes, 1506 edges
+2024-11-13 08:35:18,043 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:35:18,058 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-13 08:35:18,058 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-13 08:35:18,702 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:36:16,311 - lightrag - INFO - Inserting 24 vectors to entities
+2024-11-13 08:36:17,261 - lightrag - INFO - Inserting 20 vectors to relationships
+2024-11-13 08:36:18,059 - lightrag - INFO - Writing graph with 1894 nodes, 1524 edges
+2024-11-13 08:36:18,878 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:36:18,887 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:36:18,887 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:36:19,384 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:36:59,785 - lightrag - INFO - Inserting 14 vectors to entities
+2024-11-13 08:37:00,967 - lightrag - INFO - Inserting 4 vectors to relationships
+2024-11-13 08:37:01,460 - lightrag - INFO - Writing graph with 1903 nodes, 1528 edges
+2024-11-13 08:37:02,206 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:37:02,214 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:37:02,214 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:37:02,555 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:37:34,985 - lightrag - INFO - Inserting 14 vectors to entities
+2024-11-13 08:37:35,569 - lightrag - INFO - Inserting 6 vectors to relationships
+2024-11-13 08:37:36,202 - lightrag - INFO - Writing graph with 1916 nodes, 1534 edges
+2024-11-13 08:37:37,006 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:37:37,012 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 08:37:37,012 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 08:37:37,579 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:38:22,864 - lightrag - INFO - Inserting 11 vectors to entities
+2024-11-13 08:38:23,493 - lightrag - INFO - Inserting 7 vectors to relationships
+2024-11-13 08:38:24,167 - lightrag - INFO - Writing graph with 1924 nodes, 1541 edges
+2024-11-13 08:38:24,960 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:38:24,976 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 08:38:24,976 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 08:38:25,417 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:39:38,255 - lightrag - INFO - Inserting 18 vectors to entities
+2024-11-13 08:39:38,992 - lightrag - INFO - Inserting 17 vectors to relationships
+2024-11-13 08:39:39,792 - lightrag - INFO - Writing graph with 1941 nodes, 1558 edges
+2024-11-13 08:39:40,602 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:39:40,613 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:39:40,613 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:39:41,098 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:40:13,983 - lightrag - INFO - Writing graph with 1941 nodes, 1558 edges
+2024-11-13 08:40:24,114 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-13 08:40:24,134 - lightrag - INFO - Load KV full_docs with 122 data
+2024-11-13 08:40:24,153 - lightrag - INFO - Load KV text_chunks with 524 data
+2024-11-13 08:40:24,153 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-13 08:40:24,245 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 1941 nodes, 1558 edges
+2024-11-13 08:40:24,810 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:40:25,036 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:40:25,036 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:40:25,354 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:40:28,109 - lightrag - INFO - Writing graph with 1941 nodes, 1558 edges
+2024-11-13 08:42:16,582 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-13 08:42:16,606 - lightrag - INFO - Load KV full_docs with 122 data
+2024-11-13 08:42:16,625 - lightrag - INFO - Load KV text_chunks with 524 data
+2024-11-13 08:42:16,631 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-13 08:42:16,729 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 1941 nodes, 1558 edges
+2024-11-13 08:42:17,371 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:42:17,591 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:42:17,591 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:42:17,892 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:42:39,203 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:42:39,204 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:42:39,346 - lightrag - INFO - Writing graph with 1941 nodes, 1558 edges
+2024-11-13 08:42:39,751 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:42:39,759 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:42:39,759 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:42:40,397 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:43:32,185 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:43:32,186 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:43:32,300 - lightrag - INFO - Writing graph with 1941 nodes, 1558 edges
+2024-11-13 08:43:32,694 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:43:32,703 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 08:43:32,703 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 08:43:33,134 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:44:09,090 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:44:09,092 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:44:09,225 - lightrag - INFO - Writing graph with 1941 nodes, 1558 edges
+2024-11-13 08:44:09,633 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:44:09,639 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:44:09,639 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:44:09,953 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:44:32,690 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:44:32,692 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:44:32,822 - lightrag - INFO - Writing graph with 1941 nodes, 1558 edges
+2024-11-13 08:44:33,218 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:44:33,222 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:44:33,222 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:44:33,530 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:45:12,195 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:45:12,196 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:45:12,351 - lightrag - INFO - Writing graph with 1942 nodes, 1558 edges
+2024-11-13 08:45:12,858 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:45:12,863 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:45:12,863 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:45:13,164 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:45:37,676 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:45:37,676 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:45:37,812 - lightrag - INFO - Writing graph with 1942 nodes, 1558 edges
+2024-11-13 08:45:38,326 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:45:38,330 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-13 08:45:38,330 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-13 08:45:38,629 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:45:47,137 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:45:47,138 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:45:47,276 - lightrag - INFO - Writing graph with 1942 nodes, 1558 edges
+2024-11-13 08:45:48,034 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:45:48,040 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:45:48,040 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:45:48,569 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:46:35,242 - lightrag - INFO - Inserting 18 vectors to entities
+2024-11-13 08:46:35,917 - lightrag - INFO - Inserting 14 vectors to relationships
+2024-11-13 08:46:36,623 - lightrag - INFO - Writing graph with 1955 nodes, 1572 edges
+2024-11-13 08:46:37,493 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:46:37,501 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:46:37,501 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:46:37,978 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:47:23,351 - lightrag - INFO - Inserting 9 vectors to entities
+2024-11-13 08:47:23,900 - lightrag - INFO - Inserting 6 vectors to relationships
+2024-11-13 08:47:24,464 - lightrag - INFO - Writing graph with 1959 nodes, 1578 edges
+2024-11-13 08:47:25,344 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:47:25,367 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:47:25,367 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:47:25,878 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:48:01,964 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:48:01,965 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:48:02,120 - lightrag - INFO - Writing graph with 1964 nodes, 1578 edges
+2024-11-13 08:48:02,455 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:48:02,460 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:48:02,460 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:48:02,780 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:48:24,823 - lightrag - INFO - Inserting 6 vectors to entities
+2024-11-13 08:48:25,303 - lightrag - INFO - Inserting 6 vectors to relationships
+2024-11-13 08:48:25,807 - lightrag - INFO - Writing graph with 1968 nodes, 1584 edges
+2024-11-13 08:48:26,694 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:48:26,699 - lightrag - INFO - [New Chunks] inserting 5 chunks
+2024-11-13 08:48:26,699 - lightrag - INFO - Inserting 5 vectors to chunks
+2024-11-13 08:48:27,239 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:49:33,370 - lightrag - INFO - Inserting 24 vectors to entities
+2024-11-13 08:49:34,114 - lightrag - INFO - Inserting 21 vectors to relationships
+2024-11-13 08:49:34,920 - lightrag - INFO - Writing graph with 1990 nodes, 1605 edges
+2024-11-13 08:49:35,817 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:49:35,833 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:49:35,833 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:49:36,414 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:50:25,241 - lightrag - INFO - Inserting 20 vectors to entities
+2024-11-13 08:50:25,833 - lightrag - INFO - Inserting 5 vectors to relationships
+2024-11-13 08:50:26,461 - lightrag - INFO - Writing graph with 2005 nodes, 1609 edges
+2024-11-13 08:50:27,183 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:50:27,191 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:50:27,191 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:50:27,687 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:51:12,076 - lightrag - INFO - Inserting 19 vectors to entities
+2024-11-13 08:51:12,854 - lightrag - INFO - Inserting 11 vectors to relationships
+2024-11-13 08:51:13,563 - lightrag - INFO - Writing graph with 2022 nodes, 1620 edges
+2024-11-13 08:51:14,501 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:51:14,516 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-13 08:51:14,516 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-13 08:51:15,135 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:52:36,861 - lightrag - INFO - Inserting 33 vectors to entities
+2024-11-13 08:52:38,133 - lightrag - INFO - Inserting 10 vectors to relationships
+2024-11-13 08:52:38,810 - lightrag - INFO - Writing graph with 2046 nodes, 1628 edges
+2024-11-13 08:52:39,950 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:52:39,957 - lightrag - INFO - [New Chunks] inserting 8 chunks
+2024-11-13 08:52:39,957 - lightrag - INFO - Inserting 8 vectors to chunks
+2024-11-13 08:52:40,671 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:54:16,749 - lightrag - INFO - Inserting 37 vectors to entities
+2024-11-13 08:54:18,059 - lightrag - INFO - Inserting 18 vectors to relationships
+2024-11-13 08:54:18,840 - lightrag - INFO - Writing graph with 2070 nodes, 1646 edges
+2024-11-13 08:54:20,024 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:54:20,030 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-13 08:54:20,030 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-13 08:54:20,596 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:55:47,019 - lightrag - INFO - Inserting 28 vectors to entities
+2024-11-13 08:55:47,748 - lightrag - INFO - Inserting 29 vectors to relationships
+2024-11-13 08:55:48,537 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 08:55:49,445 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:55:49,457 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-13 08:55:49,457 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-13 08:55:50,053 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:57:03,772 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-13 08:57:03,794 - lightrag - INFO - Load KV full_docs with 131 data
+2024-11-13 08:57:03,823 - lightrag - INFO - Load KV text_chunks with 569 data
+2024-11-13 08:57:03,824 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-13 08:57:03,923 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 2089 nodes, 1674 edges
+2024-11-13 08:57:04,598 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:57:04,820 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:57:04,820 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:57:05,086 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:58:14,719 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:58:14,719 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:58:14,869 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 08:58:15,281 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:58:15,290 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 08:58:15,291 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 08:58:15,806 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:59:04,233 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:59:04,234 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:59:04,377 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 08:59:04,756 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:59:04,763 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 08:59:04,763 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 08:59:05,217 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 08:59:38,439 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 08:59:38,439 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 08:59:38,580 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 08:59:39,072 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 08:59:39,080 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 08:59:39,080 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 08:59:39,455 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:00:01,917 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 09:00:01,918 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 09:00:02,054 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 09:00:02,518 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:00:02,522 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 09:00:02,523 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 09:00:02,811 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:00:27,436 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 09:00:27,437 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 09:00:27,598 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 09:00:27,901 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:00:27,908 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 09:00:27,908 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 09:00:28,302 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:01:10,700 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 09:01:10,701 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 09:01:10,862 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 09:01:11,313 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:01:11,320 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-13 09:01:11,321 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-13 09:01:11,633 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:01:43,042 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 09:01:43,043 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 09:01:43,204 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 09:01:43,695 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:01:43,722 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 09:01:43,723 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 09:01:44,230 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:04:26,100 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 09:04:26,700 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:04:26,717 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-13 09:04:26,717 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-13 09:04:27,412 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:07:32,470 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 09:07:32,962 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:07:32,996 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 09:07:32,996 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 09:07:33,521 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:09:24,301 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 09:16:45,857 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-13 09:16:45,876 - lightrag - INFO - Load KV full_docs with 131 data
+2024-11-13 09:16:45,896 - lightrag - INFO - Load KV text_chunks with 569 data
+2024-11-13 09:16:45,896 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-13 09:16:45,990 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 2089 nodes, 1674 edges
+2024-11-13 09:16:46,840 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:16:47,058 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 09:16:47,058 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 09:16:47,345 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:17:07,887 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 09:17:07,887 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 09:17:08,022 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 09:17:08,347 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:17:08,355 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 09:17:08,355 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 09:17:08,922 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:18:10,993 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 09:18:10,994 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 09:18:11,157 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 09:18:11,952 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:18:11,957 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 09:18:11,957 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 09:18:12,446 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:18:48,225 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 09:18:48,228 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 09:18:48,371 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 09:18:48,824 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:18:48,830 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 09:18:48,831 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 09:18:49,141 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:19:10,832 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 09:19:10,834 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 09:19:10,992 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 09:19:11,382 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:19:11,386 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 09:19:11,386 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 09:19:11,704 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:19:40,182 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 09:19:40,183 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 09:19:40,326 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 09:19:40,718 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:19:40,726 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 09:19:40,726 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 09:19:41,054 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:20:06,231 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 09:20:06,234 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 09:20:06,389 - lightrag - INFO - Writing graph with 2089 nodes, 1674 edges
+2024-11-13 09:20:06,753 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:20:06,757 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-13 09:20:06,757 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-13 09:20:07,031 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:20:21,345 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 09:20:21,345 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 09:20:21,498 - lightrag - INFO - Writing graph with 2091 nodes, 1674 edges
+2024-11-13 09:20:22,042 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:20:22,053 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 09:20:22,053 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 09:20:22,542 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:21:00,705 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 09:21:00,706 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 09:21:00,876 - lightrag - INFO - Writing graph with 2091 nodes, 1674 edges
+2024-11-13 09:21:01,516 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:21:01,526 - lightrag - INFO - [New Chunks] inserting 7 chunks
+2024-11-13 09:21:01,527 - lightrag - INFO - Inserting 7 vectors to chunks
+2024-11-13 09:21:02,151 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:23:09,951 - lightrag - INFO - Inserting 65 vectors to entities
+2024-11-13 09:23:12,141 - lightrag - INFO - Inserting 35 vectors to relationships
+2024-11-13 09:23:13,474 - lightrag - INFO - Writing graph with 2139 nodes, 1709 edges
+2024-11-13 09:23:14,295 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:23:14,305 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 09:23:14,305 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 09:23:14,794 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 09:24:07,210 - lightrag - INFO - Inserting 21 vectors to entities
+2024-11-13 09:24:07,962 - lightrag - INFO - Inserting 24 vectors to relationships
+2024-11-13 09:24:08,654 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 09:24:10,539 - lightrag - INFO - Local query uses 60 entites, 150 relations, 3 text units
+2024-11-13 09:24:10,825 - lightrag - INFO - Global query uses 49 entites, 60 relations, 3 text units
+2024-11-13 09:59:50,659 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-13 09:59:50,686 - lightrag - INFO - Load KV full_docs with 133 data
+2024-11-13 09:59:50,705 - lightrag - INFO - Load KV text_chunks with 580 data
+2024-11-13 09:59:50,707 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-13 09:59:50,822 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 2150 nodes, 1732 edges
+2024-11-13 09:59:53,458 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 09:59:53,688 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 09:59:53,688 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 09:59:54,080 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:00:17,110 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:00:17,110 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:00:17,292 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:00:17,680 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:00:17,695 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 10:00:17,695 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 10:00:18,349 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:01:15,075 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:01:15,078 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:01:15,255 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:01:15,720 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:01:15,729 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 10:01:15,729 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 10:01:16,068 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:01:52,079 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:01:52,080 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:01:52,247 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:01:52,596 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:01:52,604 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 10:01:52,604 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 10:01:52,882 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:02:25,029 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:02:25,030 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:02:25,175 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:02:25,615 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:02:25,621 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 10:02:25,621 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 10:02:25,900 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:03:07,273 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:03:07,274 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:03:07,407 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:03:07,855 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:03:07,860 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 10:03:07,861 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 10:03:08,264 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:03:37,171 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:03:37,172 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:03:37,312 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:03:37,756 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:03:37,762 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-13 10:03:37,762 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-13 10:03:38,021 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:03:51,099 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:03:51,099 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:03:51,239 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:03:51,662 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:03:51,671 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 10:03:51,671 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 10:03:52,293 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:04:32,521 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:04:52,035 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-13 10:04:52,050 - lightrag - INFO - Load KV full_docs with 133 data
+2024-11-13 10:04:52,062 - lightrag - INFO - Load KV text_chunks with 580 data
+2024-11-13 10:04:52,062 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-13 10:04:52,163 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 2150 nodes, 1732 edges
+2024-11-13 10:04:52,755 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:04:52,995 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 10:04:52,996 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 10:04:53,343 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:05:18,366 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:05:18,366 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:05:18,537 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:05:18,943 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:05:18,955 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 10:05:18,955 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 10:05:19,913 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:06:13,369 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:06:13,370 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:06:13,569 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:06:14,163 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:06:14,171 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 10:06:14,171 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 10:06:14,549 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:06:51,844 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:06:51,845 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:06:51,998 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:06:52,476 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:06:52,510 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 10:06:52,510 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 10:06:52,852 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:07:14,021 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:07:14,021 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:07:14,179 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:07:14,695 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:07:14,702 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 10:07:14,702 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 10:07:15,010 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:07:45,223 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:07:45,224 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:07:45,373 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:07:45,772 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:07:45,778 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 10:07:45,778 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 10:07:46,062 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:08:14,962 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:08:14,962 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:08:15,109 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:08:15,587 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:08:15,592 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-13 10:08:15,592 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-13 10:08:15,852 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:08:25,523 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:08:25,523 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:08:25,665 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:08:26,031 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:08:26,039 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 10:08:26,039 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 10:08:26,510 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:09:08,674 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:09:08,675 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:09:08,867 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:09:10,422 - lightrag - INFO - Local query uses 60 entites, 150 relations, 3 text units
+2024-11-13 10:09:10,737 - lightrag - INFO - Global query uses 61 entites, 60 relations, 3 text units
+2024-11-13 10:11:44,825 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-13 10:11:44,848 - lightrag - INFO - Load KV full_docs with 133 data
+2024-11-13 10:11:44,875 - lightrag - INFO - Load KV text_chunks with 580 data
+2024-11-13 10:11:44,879 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-13 10:11:44,982 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 2150 nodes, 1732 edges
+2024-11-13 10:11:45,605 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:11:45,823 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 10:11:45,823 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 10:11:46,098 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:12:05,828 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:12:05,828 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:12:05,988 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:12:06,383 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:12:06,393 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 10:12:06,393 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 10:12:06,945 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:13:04,287 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:13:04,287 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:13:04,442 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:13:04,989 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:13:04,998 - lightrag - INFO - [New Chunks] inserting 3 chunks
+2024-11-13 10:13:04,998 - lightrag - INFO - Inserting 3 vectors to chunks
+2024-11-13 10:13:05,365 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:13:38,246 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:13:38,247 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:13:38,422 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:13:38,838 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:13:38,844 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 10:13:38,844 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 10:13:39,156 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:14:01,387 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:14:01,387 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:14:01,527 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:14:02,024 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:14:02,029 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 10:14:02,029 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 10:14:02,325 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:14:35,376 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:14:35,377 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:14:35,541 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:14:37,037 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:14:37,043 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-13 10:14:37,043 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-13 10:14:37,375 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:15:02,060 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:15:02,061 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:15:02,230 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:15:02,840 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:15:02,847 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-13 10:15:02,847 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-13 10:15:03,220 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:15:17,384 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:15:17,384 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:15:17,536 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:15:17,965 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-13 10:15:17,975 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-13 10:15:17,976 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-13 10:15:18,563 - lightrag - INFO - [Entity Extraction]...
+2024-11-13 10:15:56,306 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-13 10:15:56,307 - lightrag - WARNING - No new entities and relationships found
+2024-11-13 10:15:56,459 - lightrag - INFO - Writing graph with 2150 nodes, 1732 edges
+2024-11-13 10:15:58,076 - lightrag - INFO - Local query uses 60 entites, 150 relations, 3 text units
+2024-11-13 10:15:58,392 - lightrag - INFO - Global query uses 52 entites, 60 relations, 3 text units
+2024-11-13 10:20:21,069 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-13 10:20:21,091 - lightrag - INFO - Load KV full_docs with 133 data
+2024-11-13 10:20:21,111 - lightrag - INFO - Load KV text_chunks with 580 data
+2024-11-13 10:20:21,115 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-13 10:20:21,211 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 2150 nodes, 1732 edges
+2024-11-13 10:20:24,409 - lightrag - INFO - Local query uses 60 entites, 150 relations, 3 text units
+2024-11-13 10:20:24,688 - lightrag - INFO - Global query uses 54 entites, 60 relations, 3 text units
+2024-11-13 10:20:48,620 - lightrag - INFO - Local query uses 60 entites, 139 relations, 4 text units
+2024-11-13 10:20:48,889 - lightrag - INFO - Global query uses 37 entites, 60 relations, 3 text units
+2024-11-13 10:21:20,668 - lightrag - INFO - Local query uses 60 entites, 151 relations, 3 text units
+2024-11-13 10:21:20,985 - lightrag - INFO - Global query uses 48 entites, 60 relations, 3 text units
