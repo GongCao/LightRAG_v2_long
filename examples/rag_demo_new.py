@@ -66,7 +66,8 @@ async def main():
         )
         df = pd.read_excel('data.xlsx')
         answers = df['Content'].tolist()
-        await rag.ainsert(answers)
+        for answer in answers:
+            await rag.ainsert(answer)
         # 假设你的配置如下
 
         # yuque_client = YuqueClient(config)
