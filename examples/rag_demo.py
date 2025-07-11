@@ -1,6 +1,6 @@
 import os
 import asyncio
-from lightrag.lightrag import LightRAG, QueryParam
+from lightrag import LightRAG, QueryParam
 from lightrag.llm import qwen_model, req_emb
 from lightrag.utils import EmbeddingFunc
 import numpy as np
