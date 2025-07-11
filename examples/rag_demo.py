@@ -12,74 +12,6 @@ from bs4 import BeautifulSoup
 
 
 
-
-class YuqueClient:
-    def __init__(self, config):
-        self.config = config
-        self.YUQUE_API_URL_TEMPLATE = "https://yuque-api.antfin-inc.com/api/v2/repos/{}/{}{}"
-
-    def get_doc_content(self, doc_id):
-        try:
-            response = requests.get(self.build_request(f"/docs/{doc_id}"), headers=self.build_headers())
-            response.raise_for_status()
-            response_json = response.json()
-            data_json = response_json['data']
-            body_html = data_json['body']
-            print("原始文档")
-            print(body_html)
-            text = self.clean_html(body_html)
-            print("处理的文档")
-            print(text)
-            return text
-        except Exception as e:
-            raise RuntimeError("Query Yuque doc detail failed!") from e
-
-    def list_doc(self):
-        try:
-            response = requests.get(self.build_request("/toc"), headers=self.build_headers())
-            response.raise_for_status()
-            response_json = response.json()
-            doc_infos = response_json['data']
-            filtered_docs = [
-                doc for doc in doc_infos
-                if doc['type'].lower() == "doc" and doc['parent_uuid'] == self.config['source_uuid']
-            ]
-            return filtered_docs
-        except Exception as e:
-            print(e)
-            raise RuntimeError("Query Yuque doc list failed!") from e
-
-    def move_doc(self, node_uuid):
-        data = {
-            "action": "prependChild",
-            "node_uuid": node_uuid,
-            "target_uuid": self.config['archive_uuid']
-        }
-        try:
-            response = requests.put(self.build_request("/toc"), json=data, headers=self.build_headers())
-            response.raise_for_status()
-        except Exception as e:
-            raise RuntimeError("Move Yuque doc failed!") from e
-
-    def build_request(self, path):
-        return self.YUQUE_API_URL_TEMPLATE.format(
-            self.config['group_login'],
-            self.config['book_slug'],
-            path
-        )
-
-    def build_headers(self):
-        return  {
-            'X-Auth-Token': self.config.get('token'),
-            'Content-Type': 'application/json',
-        }
-
-    def clean_html(self, html):
-        soup = BeautifulSoup(html, "html.parser")
-        return soup.get_text()
-
-
-
 WORKING_DIR = "./dickens"
 
 if not os.path.exists(WORKING_DIR):
@@ -136,13 +68,6 @@ async def main():
         )
 
         # 假设你的配置如下
-        config = {
-            'group_login': 'zhc8k7',
-            'book_slug': 'gsbi8g',
-            'token': 's7PMvyM3PZH9zOIU4wWKY7x8EeW8FF3meXYkKdkQ',
-            'source_uuid': 'c7j2coekbIrMLYMW',
-            'archive_uuid': '6opEhZ7RpbXfvEZb'
-        }
 
         # yuque_client = YuqueClient(config)
 
@@ -188,6 +113,8 @@ async def main():
                 param=QueryParam(mode="hybrid"),
             )
         )
+    except KeyError as e:
+        print(f"KeyError: The key '{e.args[0]}' is missing in the dictionary.")
     except Exception as e:
         print(f"An error occurred: {e}")
 
