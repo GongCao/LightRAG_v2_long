@@ -4,7 +4,7 @@ from lightrag import LightRAG, QueryParam
 from lightrag.llm import qwen_model, req_emb
 from lightrag.utils import EmbeddingFunc
 import numpy as np
-
+import json
 import requests
 from bs4 import BeautifulSoup
 
