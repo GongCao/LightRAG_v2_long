@@ -67,14 +67,7 @@ async def main():
         df = pd.read_excel('data.xlsx')
         answers = df['Content'].tolist()
         print(f"Answers list length: {len(answers)}")
-        for answer in answers:
-            try:
-                print(answer)
-                await rag.ainsert(answer)
-            except IndexError as e:
-                print(f"IndexError occurred for answer: {answer}")
-                print(f"Answers list length: {len(answers)}")
-                break
+        await rag.ainsert(answers)
         # 假设你的配置如下
 
         # yuque_client = YuqueClient(config)
