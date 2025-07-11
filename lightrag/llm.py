@@ -71,9 +71,7 @@ async def qwen_model(
     output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
     ]
     response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
-    model.to('cpu')
-    del model
-    torch.cuda.empty_cache()
+    accelerator.free_memory()
 
     return response
 
