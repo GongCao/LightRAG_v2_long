@@ -8,7 +8,7 @@ import aiohttp
 import numpy as np
 import ollama
 # from whale import TextGeneration
-
+from accelerate import Accelerator
 from openai import (
     AsyncOpenAI,
     APIConnectionError,
@@ -41,7 +41,7 @@ from .utils import compute_args_hash, wrap_embedding_func_with_attrs
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 
-
+accelerator = Accelerator()
 async def qwen_model(
     prompt,
     system_prompt=None,
@@ -51,6 +51,7 @@ async def qwen_model(
     model_path = "../../models/Qwen/Qwen2.5-32B-Instruct"
     tokenizer = AutoTokenizer.from_pretrained(model_path)
     model = AutoModelForCausalLM.from_pretrained(model_path, torch_dtype="auto", device_map="auto")
+    model = accelerator.prepare(model)
     messages = []
     if system_prompt:
         messages.append({"role": "system", "content": system_prompt})
