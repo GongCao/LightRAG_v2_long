@@ -83,6 +83,7 @@ class NanoVectorDBStorage(BaseVectorStorage):
         if not len(data):
             logger.warning("You insert an empty data to vector DB")
             return []
+        print('bug1')
         list_data = [
             {
                 "__id__": k,
@@ -90,18 +91,25 @@ class NanoVectorDBStorage(BaseVectorStorage):
             }
             for k, v in data.items()
         ]
+        print('bug2')
         contents = [v["content"] for v in data.values()]
+        print('bug3')
         batches = [
             contents[i : i + self._max_batch_size]
             for i in range(0, len(contents), self._max_batch_size)
         ]
+        print('bug4')
         embeddings_list = await asyncio.gather(
             *[self.embedding_func(batch) for batch in batches]
         )
+        print('bug5')
         embeddings = np.concatenate(embeddings_list)
+        print('bug6')
         for i, d in enumerate(list_data):
             d["__vector__"] = embeddings[i]
+        print('bug7')
         results = self._client.upsert(datas=list_data)
+        print('bug8')
         return results
 
     async def query(self, query: str, top_k=5):
