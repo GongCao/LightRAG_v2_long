@@ -96,7 +96,7 @@ class LightRAG:
 
     # embedding_func: EmbeddingFunc = field(default_factory=lambda:hf_embedding)
     embedding_func: EmbeddingFunc = field(default_factory=lambda: openai_embedding)
-    embedding_batch_num: int = 32
+    embedding_batch_num: int = 1
     embedding_func_max_async: int = 16
 
     # LLM
