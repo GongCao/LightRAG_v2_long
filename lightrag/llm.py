@@ -41,40 +41,84 @@ from .utils import compute_args_hash, wrap_embedding_func_with_attrs
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 
-accelerator = Accelerator()
-async def qwen_model(
-    prompt,
-    system_prompt=None,
-    history_messages=[],
-    **kwargs,
-) -> str:
-    model_path = "../../models/Qwen/Qwen2.5-72B-Instruct"
-    tokenizer = AutoTokenizer.from_pretrained(model_path)
-    model = AutoModelForCausalLM.from_pretrained(model_path, torch_dtype="auto", device_map="auto")
-    model = accelerator.prepare(model)
-    messages = []
-    if system_prompt:
-        messages.append({"role": "system", "content": system_prompt})
-    messages.extend(history_messages)
-    messages.append({"role": "user", "content": prompt})
-    text = tokenizer.apply_chat_template(
-    messages,
-    tokenize=False,
-    add_generation_prompt=True
-    )
-    model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
-    max_new_tokens = kwargs.pop("max_tokens", 512)
-    generated_ids = model.generate(
-    **model_inputs,
-    max_new_tokens = max_new_tokens
-    )
-    generated_ids = [
-    output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
-    ]
-    response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
-    accelerator.free_memory()
+# accelerator = Accelerator()
+# async def qwen_model(
+#     prompt,
+#     system_prompt=None,
+#     history_messages=[],
+#     **kwargs,
+# ) -> str:
+#     model_path = "../../models/Qwen/Qwen2.5-72B-Instruct"
+#     tokenizer = AutoTokenizer.from_pretrained(model_path)
+#     model = AutoModelForCausalLM.from_pretrained(model_path, torch_dtype="auto", device_map="auto")
+#     model = accelerator.prepare(model)
+#     messages = []
+#     if system_prompt:
+#         messages.append({"role": "system", "content": system_prompt})
+#     messages.extend(history_messages)
+#     messages.append({"role": "user", "content": prompt})
+#     text = tokenizer.apply_chat_template(
+#     messages,
+#     tokenize=False,
+#     add_generation_prompt=True
+#     )
+#     model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
+#     max_new_tokens = kwargs.pop("max_tokens", 512)
+#     generated_ids = model.generate(
+#     **model_inputs,
+#     max_new_tokens = max_new_tokens
+#     )
+#     generated_ids = [
+#     output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
+#     ]
+#     response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
+#     accelerator.free_memory()
 
-    return response
+#     return response
+    
+
+class QwenModel:
+    def __init__(self, model_path="../../models/Qwen/Qwen2.5-72B-Instruct"):
+        self.accelerator = Accelerator()
+        self.model_path = model_path
+        self.tokenizer = AutoTokenizer.from_pretrained(self.model_path)
+        self.model = AutoModelForCausalLM.from_pretrained(self.model_path, torch_dtype="auto", device_map="auto")
+        self.model = self.accelerator.prepare(self.model)
+        self.messages = []
+
+    async def get_response(self, prompt, system_prompt=None, history_messages=[], **kwargs):
+        self.messages.clear()  # Clear previous messages
+        if system_prompt:
+            self.messages.append({"role": "system", "content": system_prompt})
+        self.messages.extend(history_messages)
+        self.messages.append({"role": "user", "content": prompt})
+
+        text = self.tokenizer.apply_chat_template(
+            self.messages,
+            tokenize=False,
+            add_generation_prompt=True
+        )
+        model_inputs = self.tokenizer([text], return_tensors="pt").to(self.model.device)
+        
+        max_new_tokens = kwargs.pop("max_tokens", 512)
+        
+        generated_ids = self.model.generate(
+            **model_inputs,
+            max_new_tokens=max_new_tokens
+        )
+        
+        generated_ids = [
+            output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
+        ]
+        response = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
+        
+        return response
+
+
+
+
+
+
 
 
 
