@@ -99,9 +99,13 @@ class NanoVectorDBStorage(BaseVectorStorage):
             for i in range(0, len(contents), self._max_batch_size)
         ]
         print('bug4')
-        embeddings_list = await asyncio.gather(
-            *[self.embedding_func(batch) for batch in batches]
-        )
+        # embeddings_list = await asyncio.gather(
+        #     *[self.embedding_func(batch) for batch in batches]
+        # )
+        embeddings_list = []
+        for batch in batches:
+            embedding = await self.embedding_func(batch)
+            embeddings_list.append(embedding)
         print('bug5')
         embeddings = np.concatenate(embeddings_list)
         print('bug6')
