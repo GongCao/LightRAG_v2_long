@@ -66,7 +66,7 @@ async def main():
         )
         df = pd.read_excel('data.xlsx')
         answers = df['Content'].tolist()
-        answers = answers[2835:2838]
+        answers = answers[0:2838]
         print(f"Answers list length: {len(answers)}")
         await rag.ainsert(answers)
         # 假设你的配置如下
