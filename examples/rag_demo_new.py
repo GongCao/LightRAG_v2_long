@@ -1,7 +1,7 @@
 import os
 import asyncio
 from lightrag import LightRAG, QueryParam
-from lightrag.llm import qwen_model, req_emb
+from lightrag.llm import QwenModel, req_emb
 from lightrag.utils import EmbeddingFunc
 import numpy as np
 import pandas as pd
@@ -14,11 +14,11 @@ WORKING_DIR = "./dickens"
 if not os.path.exists(WORKING_DIR):
     os.mkdir(WORKING_DIR)
 
-
+qwen_model = QwenModel()
 async def llm_model_func(
     prompt, system_prompt=None, history_messages=[], **kwargs
 ) -> str:
-    return await qwen_model(
+    return await qwen_model.get_response(
         prompt,
         history_messages=history_messages,
         system_prompt=system_prompt,
