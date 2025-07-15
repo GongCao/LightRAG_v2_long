@@ -127,8 +127,6 @@ async def req_emb(query):
     # time.sleep(0.5)
     current_time = str(datetime.now()).replace(' ', '-')
     print(f"query is {query}")
-    n = len(query[0])
-    print(f"The length is {n}")
     data = {
         "botId":"2025070910101415071",
         "bizUserId":"wangyichao_emb.wyc",
