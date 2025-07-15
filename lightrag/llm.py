@@ -78,7 +78,7 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
     
 
 class QwenModel:
-    def __init__(self, model_path="../../../models/Qwen/Qwen2.5-72B-Instruct"):
+    def __init__(self, model_path="home/models/Qwen/Qwen2.5-72B-Instruct"):
         self.accelerator = Accelerator()
         self.model_path = model_path
         self.tokenizer = AutoTokenizer.from_pretrained(self.model_path)
