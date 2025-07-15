@@ -52,6 +52,7 @@ async def test_funcs():
 
 async def main():
     try:
+        print("begin")
         embedding_dimension = await get_embedding_dim()
         print(f"Detected embedding dimension: {embedding_dimension}")
 
