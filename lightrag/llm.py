@@ -16,6 +16,7 @@ from openai import (
     Timeout,
     AsyncAzureOpenAI,
 )
+import asyncio
 
 import base64
 import struct
