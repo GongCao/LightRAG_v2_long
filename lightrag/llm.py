@@ -102,11 +102,11 @@ class QwenModel:
         
         max_new_tokens = kwargs.pop("max_tokens", 512)
         
-        generated_ids = self.model.generate(
-            **model_inputs,
-            max_new_tokens=max_new_tokens
-        )
-        # generated_ids = await asyncio.to_thread(self.model.generate, **model_inputs, max_new_tokens=max_new_tokens)
+        # generated_ids = self.model.generate(
+        #     **model_inputs,
+        #     max_new_tokens=max_new_tokens
+        # )
+        generated_ids = await asyncio.to_thread(self.model.generate, **model_inputs, max_new_tokens=max_new_tokens)
         
         generated_ids = [
             output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
