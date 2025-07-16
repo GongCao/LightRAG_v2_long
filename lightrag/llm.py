@@ -84,6 +84,7 @@ class QwenModel:
         self.model_path = model_path
         self.tokenizer = AutoTokenizer.from_pretrained(self.model_path)
         self.model = AutoModelForCausalLM.from_pretrained(self.model_path, torch_dtype="auto", device_map="auto")
+        self.model.to("cuda")
         self.model = self.accelerator.prepare(self.model)
         self.messages = []
 
