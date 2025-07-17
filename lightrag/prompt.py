@@ -173,7 +173,7 @@ You are a helpful assistant tasked with identifying both high-level and low-leve
 
 ---Goal---
 
-Given the query, list both high-level and low-level keywords. High-level keywords focus on overarching concepts or themes, while low-level keywords focus on specific entities, details, or concrete terms.
+Given the query, list both high-level and low-level keywords in either Chinese or English following the language of input query. High-level keywords focus on overarching concepts or themes, while low-level keywords focus on specific entities, details, or concrete terms.
 
 ---Instructions---
 
