@@ -955,7 +955,7 @@ async def hybrid_query(
         )
 
     context = combine_contexts(high_level_context, low_level_context)
-
+    print("Retrieval is done.")
     if query_param.only_need_context:
         return context
     if context is None:
