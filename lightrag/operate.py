@@ -489,6 +489,7 @@ async def _build_local_query_context(
     use_relations = await _find_most_related_edges_from_entities(
         node_datas, query_param, knowledge_graph_inst
     )
+    print(use_text_units)
     logger.info(
         f"Local query uses {len(node_datas)} entites, {len(use_relations)} relations, {len(use_text_units)} text units"
     )
@@ -771,6 +772,7 @@ async def _build_global_query_context(
     use_text_units = await _find_related_text_unit_from_relationships(
         edge_datas, query_param, text_chunks_db, knowledge_graph_inst
     )
+    print(use_text_units)
     logger.info(
         f"Global query uses {len(use_entities)} entites, {len(edge_datas)} relations, {len(use_text_units)} text units"
     )
