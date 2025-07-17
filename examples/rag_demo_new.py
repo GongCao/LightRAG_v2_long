@@ -66,10 +66,21 @@ async def main(query: str):
                 func=embedding_func,
             ),
         )
+        # df = pd.read_excel('data.xlsx')
+        # answers = df['Content'].tolist()
+        # print(f"Answers list length: {len(answers)}")
+        # await rag.ainsert(answers)
+        
         df = pd.read_excel('data.xlsx')
         answers = df['Content'].tolist()
-        print(f"Answers list length: {len(answers)}")
-        await rag.ainsert(answers)
+        questions = df['Title'].tolist()
+        print(len(questions))
+        print(len(answers))
+        doc = ""
+        for question, answer in zip(questions, answers):
+          tmp = f" (客户问题：{question} 正确回答：{answer});"
+          doc = doc + tmp
+        await rag.ainsert(doc)
         # 假设你的配置如下
 
         # yuque_client = YuqueClient(config)
