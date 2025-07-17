@@ -11,7 +11,7 @@ PROMPTS["process_tickers"] = ["⠋", "⠙", "⠹", "⠸", "⠼", "⠴", "⠦", "
 PROMPTS["DEFAULT_ENTITY_TYPES"] = ["person", "organization", "account", "currency", "payment", "transaction", "action", "event", "location", "link", "document", "concept"]
 
 PROMPTS["entity_extraction"] = """-Goal-
-Given a text document that is potentially relevant to this activity and a list of entity types, identify all entities of those types from the text and all relationships among the identified entities.
+Given a text document that contains many Q&A pairs in the format (Question: [...], Answer: [...]) and is potentially relevant to this activity and a list of entity types, identify all entities of those types from the text and all relationships among the identified entities.
 
 -Steps-
 1. Identify all entities. For each identified entity, extract the following information:
