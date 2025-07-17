@@ -78,7 +78,7 @@ async def main(query: str):
         print(len(answers))
         doc = ""
         for question, answer in zip(questions, answers):
-          tmp = f" (客户问题：{question} 正确回答：{answer});"
+          tmp = f" (Question: [{question}], Answer: [{answer}]);"
           doc = doc + tmp
         await rag.ainsert(doc)
         # 假设你的配置如下
