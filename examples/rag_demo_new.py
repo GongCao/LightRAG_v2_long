@@ -50,7 +50,7 @@ async def test_funcs():
 # asyncio.run(test_funcs())
 
 
-async def main():
+async def main(query: str):
     try:
         print("begin")
         embedding_dimension = await get_embedding_dim()
@@ -111,7 +111,7 @@ async def main():
         # Perform hybrid search
         print(
             await rag.aquery(
-                "如何查看全球远航提交的开店申请审核进度？",
+                query,
                 param=QueryParam(mode="hybrid"),
             )
         )
@@ -120,5 +120,10 @@ async def main():
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    parser = argparse.ArgumentParser(description="Query for LightRAG")
+    parser.add_argument('query', type=str, help="Query to be run against LightRAG")
+    args = parser.parse_args()
+
+    asyncio.run(main(args.query))
+    # asyncio.run(main())
 
