@@ -73,7 +73,7 @@ class LightRAG:
     log_level: str = field(default=current_log_level)
 
     # text chunking
-    chunk_token_size: int = 1200
+    chunk_token_size: int = 2048
     chunk_overlap_token_size: int = 100
     tiktoken_model_name: str = "gpt-4o-mini"
 
