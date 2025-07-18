@@ -490,6 +490,8 @@ async def _build_local_query_context(
         node_datas, query_param, knowledge_graph_inst
     )
     print(json.dumps(use_text_units, ensure_ascii=False))
+    print(json.dumps(node_datas, ensure_ascii=False))
+    print(json.dumps(use_relations, ensure_ascii=False))
     logger.info(
         f"Local query uses {len(node_datas)} entites, {len(use_relations)} relations, {len(use_text_units)} text units"
     )
@@ -773,6 +775,8 @@ async def _build_global_query_context(
         edge_datas, query_param, text_chunks_db, knowledge_graph_inst
     )
     print(json.dumps(use_text_units, ensure_ascii=False))
+    print(json.dumps(use_entities, ensure_ascii=False))
+    print(json.dumps(edge_datas, ensure_ascii=False))
     logger.info(
         f"Global query uses {len(use_entities)} entites, {len(edge_datas)} relations, {len(use_text_units)} text units"
     )
