@@ -618,6 +618,7 @@ async def _find_most_related_text_unit_from_entities(
         key=lambda x: x["data"]["content"],
         max_token_size=query_param.max_token_for_text_unit,
     )
+    # all_text_units = all_text_units[:15]
 
     all_text_units = [t["data"] for t in all_text_units]
     return all_text_units
@@ -894,6 +895,7 @@ async def _find_related_text_unit_from_relationships(
         key=lambda x: x["data"]["content"],
         max_token_size=query_param.max_token_for_text_unit,
     )
+    # all_text_units = all_text_units[:15]
     all_text_units: list[TextChunkSchema] = [t["data"] for t in all_text_units]
 
     return all_text_units
